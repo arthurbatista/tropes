@@ -1,0 +1,1167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noindex, nofollow" />
+<!-- Original TVTropes.org is authoritative, let's be nice and not pollute normal HTML search engines. -->
+<link rel="stylesheet" href="/static/main.css" type="text/css" />
+<title>Film: Shutter - DBTropes</title>
+</head>
+<body>
+<div id="main">
+<div style="float: right; margin: 0 20px 0 0;"><a href="/info">Search/Recent Changes</a></div>
+<a href="http://dbtropes.org/">
+<img style="border:0px" alt="DBTropes" title="DBTropes" src="/static/logo.png" /></a><br/><i>...it's like <a href="http://tvtropes.org/">TV Tropes</a>, but <a href="http://linkeddata.org/">LINKED DATA</a>!</i>
+<p/>
+
+<h1>Film: Shutter</h1>
+
+<ul>
+<li>185 statements</li>
+<li>34 <a href="#feature_instances">feature instances</a></li>
+<li>5 <a href="#ref_feature_instances">referencing feature instances</a></li>
+</ul>
+
+<table><tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/ont/TVTItem'>TVTItem</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#label'>label</div></td>
+<td><i>Film: Shutter</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+<td><div title='http://xmlns.com/foaf/0.1/page'>page</div></td>
+<td><a href='http://tvtropes.org/pmwiki/pmwiki.php/Film/Shutter'>Shutter</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Shutter is a 2004 Thai horror film by Banjong Pisanthanakun and Parkpoom Wongpoom. It focuses a on young couple, Tun and Jane, who, after being involved in a hit-and-run accident, find themselves menaced by the ghost of a young woman named Natre, most prominently in mysterious and ghostly images seen in photographer Tun's developed pictures. As Tun's circle of friends start to kill themselves one by one, it soon becomes clear that there is a lot more to these images and hauntings than meets the eye - and Tun himself is hiding many dark secrets...The film was remade in 2007 as a Tamil film called Sivi, and as a 2008 American film, also titled Shutter.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+<td><div title='http://dbtropes.org/ont/fetched'>fetched</div></td>
+<td><i>2012-12-06T23:43:01Z</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+<td><div title='http://dbtropes.org/ont/parsed'>parsed</div></td>
+<td><i>2014-09-23T05:01:17Z</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+<td><div title='http://dbtropes.org/ont/processingCategory1'>processingCategory1</div></td>
+<td><a href='http://dbtropes.org/resource/Main/FilmsOf2000-2004'>Films of 2000-2004</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+<td><div title='http://dbtropes.org/ont/processingCategory1'>processingCategory1</div></td>
+<td><a href='http://dbtropes.org/resource/Main/HorrorFilms'>Horror Films</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+<td><div title='http://dbtropes.org/ont/processingComment'>processingComment</div></td>
+<td><i>Dropped link to ForeignRemake: Not a Feature - ITEM</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+<td><div title='http://dbtropes.org/ont/processingComment'>processingComment</div></td>
+<td><i>Dropped link to ToiletHumor: Not a Feature - UNKNOWN</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+<td><div title='http://dbtropes.org/ont/processingUnknown'>processingUnknown</div></td>
+<td><a href='http://dbtropes.org/resource/Main/ToiletHumor'>ToiletHumor</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+<td><div title='http://purl.org/dc/terms/isPartOf'>isPartOf</div></td>
+<td><a href='http://dbtropes.org/ont/DBTropes'>DBTropes</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#seeAlso'>seeAlso</div></td>
+<td><a href='http://dbtropes.org/resource/Main/CameraFiend'>Camera Fiend</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#seeAlso'>seeAlso</div></td>
+<td><a href='http://dbtropes.org/resource/Main/ForeignRemake'>Foreign Remake</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_109c4f6c' href='http://dbtropes.org/resource/Film/Shutter/int_109c4f6c'>Film: Shutter / int_109c4f6c</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/FateWorseThanDeath'>Fate Worse than Death</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_109c4f6c'>Film: Shutter / int_109c4f6c</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>A Fate Worse Than Death - The ending, for Tun. Arguably justified.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_109c4f6c'>Film: Shutter / int_109c4f6c</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_109c4f6c'>Film: Shutter / int_109c4f6c</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Shutter/int_109c4f6c'>Film: Shutter / int_109c4f6c</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_244a286' href='http://dbtropes.org/resource/Film/Shutter/int_244a286'>Film: Shutter / int_244a286</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/TwistEnding'>Twist Ending</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_244a286'>Film: Shutter / int_244a286</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Twist Ending</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_244a286'>Film: Shutter / int_244a286</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_244a286'>Film: Shutter / int_244a286</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Shutter/int_244a286'>Film: Shutter / int_244a286</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_25583ce' href='http://dbtropes.org/resource/Film/Shutter/int_25583ce'>Film: Shutter / int_25583ce</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/JumpScare'>Jump Scare</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_25583ce'>Film: Shutter / int_25583ce</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Jump Scare: Many and varied.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_25583ce'>Film: Shutter / int_25583ce</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_25583ce'>Film: Shutter / int_25583ce</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Shutter/int_25583ce'>Film: Shutter / int_25583ce</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_2deac6c' href='http://dbtropes.org/resource/Film/Shutter/int_2deac6c'>Film: Shutter / int_2deac6c</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/GhostlyGoals'>Ghostly Goals</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_2deac6c'>Film: Shutter / int_2deac6c</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Ghostly Goals - Natre is a blend of both types. She longs to both exact revenge on Tun (as well as his friends) and to be with him forever, but also provides Jane with clues as to what happened to her.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_2deac6c'>Film: Shutter / int_2deac6c</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_2deac6c'>Film: Shutter / int_2deac6c</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Shutter/int_2deac6c'>Film: Shutter / int_2deac6c</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_304ecebc' href='http://dbtropes.org/resource/Film/Shutter/int_304ecebc'>Film: Shutter / int_304ecebc</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/FourIsDeath'>Four Is Death</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_304ecebc'>Film: Shutter / int_304ecebc</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Four is Death - There is a scene in which Tun is running down several flights of stairs to escape Natre. However, no matter which floor he stops at, it is always &quot;Level 4&quot;.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_304ecebc'>Film: Shutter / int_304ecebc</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_304ecebc'>Film: Shutter / int_304ecebc</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Shutter/int_304ecebc'>Film: Shutter / int_304ecebc</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_40fc905c' href='http://dbtropes.org/resource/Film/Shutter/int_40fc905c'>Film: Shutter / int_40fc905c</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/PayEvilUntoEvil'>Pay Evil unto Evil</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_40fc905c'>Film: Shutter / int_40fc905c</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Arguably justified.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_40fc905c'>Film: Shutter / int_40fc905c</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_40fc905c'>Film: Shutter / int_40fc905c</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Shutter/int_40fc905c'>Film: Shutter / int_40fc905c</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_42479567' href='http://dbtropes.org/resource/Film/Shutter/int_42479567'>Film: Shutter / int_42479567</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/MatchlightDangerRevelation'>Matchlight Danger Revelation</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_42479567'>Film: Shutter / int_42479567</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Matchlight Danger Revelation: The scene in the pitch-black room with the flashing camera.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_42479567'>Film: Shutter / int_42479567</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_42479567'>Film: Shutter / int_42479567</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Shutter/int_42479567'>Film: Shutter / int_42479567</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_48269e65' href='http://dbtropes.org/resource/Film/Shutter/int_48269e65'>Film: Shutter / int_48269e65</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/MummiesAtTheDinnerTable'>Mummies at the Dinner Table</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_48269e65'>Film: Shutter / int_48269e65</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Mummies at the Dinner Table: Natre's mother still keeps her daughter's decomposing corpse in her (Natre's) bed. She is eventually cremated, with everyone hoping that this act will put her spirit at peace. It doesn't.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_48269e65'>Film: Shutter / int_48269e65</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_48269e65'>Film: Shutter / int_48269e65</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Shutter/int_48269e65'>Film: Shutter / int_48269e65</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_5a19d0ca' href='http://dbtropes.org/resource/Film/Shutter/int_5a19d0ca'>Film: Shutter / int_5a19d0ca</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/StringyHairedGhostGirl'>Stringy-Haired Ghost Girl</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_5a19d0ca'>Film: Shutter / int_5a19d0ca</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Stringy-Haired Ghost Girl - Natre.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_5a19d0ca'>Film: Shutter / int_5a19d0ca</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_5a19d0ca'>Film: Shutter / int_5a19d0ca</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Shutter/int_5a19d0ca'>Film: Shutter / int_5a19d0ca</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_6c9bfced' href='http://dbtropes.org/resource/Film/Shutter/int_6c9bfced'>Film: Shutter / int_6c9bfced</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/RapeIsASpecialKindOfEvil'>Rape Is a Special Kind of Evil</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_6c9bfced'>Film: Shutter / int_6c9bfced</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Rape Is a Special Kind of Evil</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_6c9bfced'>Film: Shutter / int_6c9bfced</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_6c9bfced'>Film: Shutter / int_6c9bfced</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Shutter/int_6c9bfced'>Film: Shutter / int_6c9bfced</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_73dd6912' href='http://dbtropes.org/resource/Film/Shutter/int_73dd6912'>Film: Shutter / int_73dd6912</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/BloodFromTheMouth'>Blood from the Mouth</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_73dd6912'>Film: Shutter / int_73dd6912</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Blood from the Mouth: Jane in one of Tun's nightmares. Complete with teeth.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_73dd6912'>Film: Shutter / int_73dd6912</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_73dd6912'>Film: Shutter / int_73dd6912</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Shutter/int_73dd6912'>Film: Shutter / int_73dd6912</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_7a08cda1' href='http://dbtropes.org/resource/Film/Shutter/int_7a08cda1'>Film: Shutter / int_7a08cda1</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/KarmicDeath'>Karmic Death</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_7a08cda1'>Film: Shutter / int_7a08cda1</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Karmic Death: All of Tun's friends suffer this.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_7a08cda1'>Film: Shutter / int_7a08cda1</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_7a08cda1'>Film: Shutter / int_7a08cda1</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Shutter/int_7a08cda1'>Film: Shutter / int_7a08cda1</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_8750186b' href='http://dbtropes.org/resource/Film/Shutter/int_8750186b'>Film: Shutter / int_8750186b</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/CameraFiend'>Camera Fiend</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_8750186b'>Film: Shutter / int_8750186b</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Camera Fiend - Tun, obviously.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_8750186b'>Film: Shutter / int_8750186b</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_8750186b'>Film: Shutter / int_8750186b</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Shutter/int_8750186b'>Film: Shutter / int_8750186b</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_8b6aa6c4' href='http://dbtropes.org/resource/Film/Shutter/int_8b6aa6c4'>Film: Shutter / int_8b6aa6c4</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/SpookyPhotographs'>Spooky Photographs</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_8b6aa6c4'>Film: Shutter / int_8b6aa6c4</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Spooky Photographs - The first type, all the way.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_8b6aa6c4'>Film: Shutter / int_8b6aa6c4</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_8b6aa6c4'>Film: Shutter / int_8b6aa6c4</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Shutter/int_8b6aa6c4'>Film: Shutter / int_8b6aa6c4</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_8b98727e' href='http://dbtropes.org/resource/Film/Shutter/int_8b98727e'>Film: Shutter / int_8b98727e</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/DownerEnding'>Downer Ending</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_8b98727e'>Film: Shutter / int_8b98727e</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Downer Ending</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_8b98727e'>Film: Shutter / int_8b98727e</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_8b98727e'>Film: Shutter / int_8b98727e</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Shutter/int_8b98727e'>Film: Shutter / int_8b98727e</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_8d25eae8' href='http://dbtropes.org/resource/Film/Shutter/int_8d25eae8'>Film: Shutter / int_8d25eae8</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/RoomFullOfCrazy'>Room Full of Crazy</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_8d25eae8'>Film: Shutter / int_8d25eae8</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Room Full of Crazy: In the American version. When it's revealed that Ritsuo's been publishing fake Spooky Photographs, he shows Jane a room full of real ones.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_8d25eae8'>Film: Shutter / int_8d25eae8</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_8d25eae8'>Film: Shutter / int_8d25eae8</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Shutter/int_8d25eae8'>Film: Shutter / int_8d25eae8</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_911732c7' href='http://dbtropes.org/resource/Film/Shutter/int_911732c7'>Film: Shutter / int_911732c7</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/DrivenToSuicide'>Driven to Suicide</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_911732c7'>Film: Shutter / int_911732c7</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Driven to Suicide: Natre. Also, Tun's friends all throw themselves off of buildings, although it is strongly implied that they are being influenced by Natre at the time. Tun later throws himself out of his apartment window (he survives, but with severe injuries), although whether this is accidental or a deliberate suicide attempt is up for debate.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_911732c7'>Film: Shutter / int_911732c7</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_911732c7'>Film: Shutter / int_911732c7</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Shutter/int_911732c7'>Film: Shutter / int_911732c7</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_95a7beec' href='http://dbtropes.org/resource/Film/Shutter/int_95a7beec'>Film: Shutter / int_95a7beec</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/DaylightHorror'>Daylight Horror</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_95a7beec'>Film: Shutter / int_95a7beec</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Daylight Horror: Several unsettling scenes take place during the daytime, such as Jane's visit to the college and Tun and Jane's visit to Natre's mother, to name a couple of examples.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_95a7beec'>Film: Shutter / int_95a7beec</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_95a7beec'>Film: Shutter / int_95a7beec</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Shutter/int_95a7beec'>Film: Shutter / int_95a7beec</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_a1b6642f' href='http://dbtropes.org/resource/Film/Shutter/int_a1b6642f'>Film: Shutter / int_a1b6642f</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/TheDanza'>This entry is trivia, which is cool and all, but not a trope. On a work, it goes on the Trivia tab. The Danza</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_a1b6642f'>Film: Shutter / int_a1b6642f</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>The Danza - Megumi Okina as Megumi Tanaka.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_a1b6642f'>Film: Shutter / int_a1b6642f</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_a1b6642f'>Film: Shutter / int_a1b6642f</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Shutter/int_a1b6642f'>Film: Shutter / int_a1b6642f</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_a55428dd' href='http://dbtropes.org/resource/Film/Shutter/int_a55428dd'>Film: Shutter / int_a55428dd</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/MirrorScare'>Mirror Scare</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_a55428dd'>Film: Shutter / int_a55428dd</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Mirror Scare</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_a55428dd'>Film: Shutter / int_a55428dd</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_a55428dd'>Film: Shutter / int_a55428dd</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Shutter/int_a55428dd'>Film: Shutter / int_a55428dd</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_a8e80208' href='http://dbtropes.org/resource/Film/Shutter/int_a8e80208'>Film: Shutter / int_a8e80208</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/SelfHarm'>Self Harm</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_a8e80208'>Film: Shutter / int_a8e80208</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Self Harm: Natre cuts her wrists in Tun's darkroom prior to taking an overdose of pills and throwing herself off a roof.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_a8e80208'>Film: Shutter / int_a8e80208</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_a8e80208'>Film: Shutter / int_a8e80208</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Shutter/int_a8e80208'>Film: Shutter / int_a8e80208</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_aced28d2' href='http://dbtropes.org/resource/Film/Shutter/int_aced28d2'>Film: Shutter / int_aced28d2</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/RoaringRampageOfRevenge'>Roaring Rampage of Revenge</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_aced28d2'>Film: Shutter / int_aced28d2</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Roaring Rampage of Revenge</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_aced28d2'>Film: Shutter / int_aced28d2</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_aced28d2'>Film: Shutter / int_aced28d2</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Shutter/int_aced28d2'>Film: Shutter / int_aced28d2</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_ad35acf6' href='http://dbtropes.org/resource/Film/Shutter/int_ad35acf6'>Film: Shutter / int_ad35acf6</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/TheReveal'>The Reveal</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_ad35acf6'>Film: Shutter / int_ad35acf6</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>The Reveal - This film contains several, all centering around Natre. As it turns out, Natre was not killed in the hit-and-run accident - she had been dead a long time prior to that. She had, in fact, committed suicide. So, why is she seeking revenge, if she wasn't killed in a hit-and-run? Well, it turns out that Tun went to college with her, and started dating her. Natre fell deeply in love with him, but Tun kept their relationship a secret, even from his closest friends, due to everyone else finding the quiet, unassuming Natre to be &quot;weird&quot;. He didn't love her, although he did care about her a lot. However, Natre fell into a deep depression and became suicidal, and shortly after that, Tun dumped her. Then, towards the end of the film, the entire truth is revealed: Natre became depressed and eventually killed herself because of Tun's friends holding her down and raping her one night. To add insult to injury, when Tun walked in on them, instead of helping her, chose to protect his friends instead by providing photos of Natre to his friends so that they could use them against her. Then, near the very end of the film, the reasons for Tun's neck ache and increased weight are revealed: Natre's spirit has been sitting on his shoulders the whole time, something which is only revealed when he takes a picture of himself.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_ad35acf6'>Film: Shutter / int_ad35acf6</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_ad35acf6'>Film: Shutter / int_ad35acf6</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Shutter/int_ad35acf6'>Film: Shutter / int_ad35acf6</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_b09c1d83' href='http://dbtropes.org/resource/Film/Shutter/int_b09c1d83'>Film: Shutter / int_b09c1d83</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/DisgustingPublicToilet'>Disgusting Public Toilet</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_b09c1d83'>Film: Shutter / int_b09c1d83</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Disgusting Public Toilet: Tun visits one, although it's considerably less disgusting than most examples.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_b09c1d83'>Film: Shutter / int_b09c1d83</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_b09c1d83'>Film: Shutter / int_b09c1d83</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Shutter/int_b09c1d83'>Film: Shutter / int_b09c1d83</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_b2116de' href='http://dbtropes.org/resource/Film/Shutter/int_b2116de'>Film: Shutter / int_b2116de</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/Foreshadowing'>Foreshadowing</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_b2116de'>Film: Shutter / int_b2116de</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Foreshadowing: The white wisps that appear in Tun's photos from the college graduation turn out to be highlighting the room in which Natre was raped. Also, Tun's unexplained neck soreness and increased weight gain turn out to be the result of Natre sitting on his shoulders the whole time. The conversation about how sometimes spirits long to be with their loved ones also ends up foreshadowing the latter.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_b2116de'>Film: Shutter / int_b2116de</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_b2116de'>Film: Shutter / int_b2116de</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Shutter/int_b2116de'>Film: Shutter / int_b2116de</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_b5507a90' href='http://dbtropes.org/resource/Film/Shutter/int_b5507a90'>Film: Shutter / int_b5507a90</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/RuleOfSymbolism'>Rule of Symbolism</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_b5507a90'>Film: Shutter / int_b5507a90</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Rule of Symbolism: That's quite a weight you're carrying there, Tun.  And she will never ever leave you. The nature show featuring praying mantises in the act of mating and sexual cannibalism acts as this, especially when one factors in the ending.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_b5507a90'>Film: Shutter / int_b5507a90</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_b5507a90'>Film: Shutter / int_b5507a90</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Shutter/int_b5507a90'>Film: Shutter / int_b5507a90</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_bd98c3b4' href='http://dbtropes.org/resource/Film/Shutter/int_bd98c3b4'>Film: Shutter / int_bd98c3b4</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/UnreliableNarrator'>Unreliable Narrator</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_bd98c3b4'>Film: Shutter / int_bd98c3b4</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Unreliable Narrator: Tun in his earlier flashbacks.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_bd98c3b4'>Film: Shutter / int_bd98c3b4</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_bd98c3b4'>Film: Shutter / int_bd98c3b4</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Shutter/int_bd98c3b4'>Film: Shutter / int_bd98c3b4</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_c03d1c9' href='http://dbtropes.org/resource/Film/Shutter/int_c03d1c9'>Film: Shutter / int_c03d1c9</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/ChekhovsGun'>Chekhov's Gun</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_c03d1c9'>Film: Shutter / int_c03d1c9</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Chekhov's Gun: The Polaroid camera.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_c03d1c9'>Film: Shutter / int_c03d1c9</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_c03d1c9'>Film: Shutter / int_c03d1c9</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Shutter/int_c03d1c9'>Film: Shutter / int_c03d1c9</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_e416c5e0' href='http://dbtropes.org/resource/Film/Shutter/int_e416c5e0'>Film: Shutter / int_e416c5e0</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/PeekABooCorpse'>Peek-A-Boo Corpse</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_e416c5e0'>Film: Shutter / int_e416c5e0</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Peek-A-Boo Corpse: It's pretty easy to see coming, but it still manages to be extremely jarring.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_e416c5e0'>Film: Shutter / int_e416c5e0</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_e416c5e0'>Film: Shutter / int_e416c5e0</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Shutter/int_e416c5e0'>Film: Shutter / int_e416c5e0</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_ee42a70' href='http://dbtropes.org/resource/Film/Shutter/int_ee42a70'>Film: Shutter / int_ee42a70</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/ShrinkingViolet'>Shrinking Violet</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_ee42a70'>Film: Shutter / int_ee42a70</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Shrinking Violet: Natre, in life.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_ee42a70'>Film: Shutter / int_ee42a70</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_ee42a70'>Film: Shutter / int_ee42a70</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Shutter/int_ee42a70'>Film: Shutter / int_ee42a70</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_f7823a5c' href='http://dbtropes.org/resource/Film/Shutter/int_f7823a5c'>Film: Shutter / int_f7823a5c</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/WhatTheHellHero'>What the Hell, Hero?</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_f7823a5c'>Film: Shutter / int_f7823a5c</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>What the Hell, Hero?: Jane does this to Tun towards the end, when she discovers just what happened to make Natre so deeply vengeful.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_f7823a5c'>Film: Shutter / int_f7823a5c</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_f7823a5c'>Film: Shutter / int_f7823a5c</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Shutter/int_f7823a5c'>Film: Shutter / int_f7823a5c</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_fce42201' href='http://dbtropes.org/resource/Film/Shutter/int_fce42201'>Film: Shutter / int_fce42201</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/AssholeVictim'>Asshole Victim</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_fce42201'>Film: Shutter / int_fce42201</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Asshole Victim: All of Tun's friends, especially Tonn.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_fce42201'>Film: Shutter / int_fce42201</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_fce42201'>Film: Shutter / int_fce42201</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Shutter/int_fce42201'>Film: Shutter / int_fce42201</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_fdd9650d' href='http://dbtropes.org/resource/Film/Shutter/int_fdd9650d'>Film: Shutter / int_fdd9650d</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/FaceRevealingTurn'>Face-Revealing Turn</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_fdd9650d'>Film: Shutter / int_fdd9650d</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Face Revealing Turn - In a nightmare of Tun's, he is walking towards who he believes to be Jane. Suddenly, she starts coughing up blood, and then she turns around to reveal that she is Jane, who then starts spitting out her own teeth as well.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_fdd9650d'>Film: Shutter / int_fdd9650d</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_fdd9650d'>Film: Shutter / int_fdd9650d</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Shutter/int_fdd9650d'>Film: Shutter / int_fdd9650d</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_name' href='http://dbtropes.org/resource/Film/Shutter/int_name'>Film: Shutter / int_name</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://skipforward.net/skipforward/resource/seeder/skipinions/ItemName'>ItemName</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_name'>Film: Shutter / int_name</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i></i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_name'>Film: Shutter / int_name</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_name'>Film: Shutter / int_name</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Shutter/int_name'>Film: Shutter / int_name</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter/int_name'>Film: Shutter / int_name</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/itemName'>itemName</div></td>
+<td><i>Film: Shutter</i></td>
+</tr>
+
+
+</table><p><a name="ref_feature_instances">The following is a list of statements referring to the current page from other pages.</a></p><table><tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/FourIsDeath/int_491a3410'>Four Is Death / int_491a3410</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/GhostlyGoals/int_491a3410'>Ghostly Goals / int_491a3410</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/PsychologicalHorror/int_491a3410'>Psychological Horror / int_491a3410</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Main/Sideways'>Sideways</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#seeAlso'>seeAlso</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Shutter'>Film: Shutter</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/SpookyPhotographs/int_491a3410'>Spooky Photographs / int_491a3410</a></td>
+</tr>
+
+
+</table><hr/><div id="copyright">Copyright of DBTropes.org wrapper 2009-2013 <a href="http://www.dfki.de/km">DFKI Knowledge Management</a>. <a href="http://www.dfki.de/web/forschung/km/legal-info-en">Imprint</a>.<br/>Copyright of data <a href="http://tvtropes.org/">TVTropes.org</a> contributors under <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-Share Alike 3.0 Unported License</a>.</div></div>
+</body>
+</html>

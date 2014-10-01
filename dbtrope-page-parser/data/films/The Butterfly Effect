@@ -1,0 +1,2415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noindex, nofollow" />
+<!-- Original TVTropes.org is authoritative, let's be nice and not pollute normal HTML search engines. -->
+<link rel="stylesheet" href="/static/main.css" type="text/css" />
+<title>Film: The Butterfly Effect - DBTropes</title>
+</head>
+<body>
+<div id="main">
+<div style="float: right; margin: 0 20px 0 0;"><a href="/info">Search/Recent Changes</a></div>
+<a href="http://dbtropes.org/">
+<img style="border:0px" alt="DBTropes" title="DBTropes" src="/static/logo.png" /></a><br/><i>...it's like <a href="http://tvtropes.org/">TV Tropes</a>, but <a href="http://linkeddata.org/">LINKED DATA</a>!</i>
+<p/>
+
+<h1>Film: The Butterfly Effect</h1>
+
+<ul>
+<li>368 statements</li>
+<li>70 <a href="#feature_instances">feature instances</a></li>
+<li>30 <a href="#ref_feature_instances">referencing feature instances</a></li>
+</ul>
+
+<table><tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/ont/TVTItem'>TVTItem</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#label'>label</div></td>
+<td><i>Film: The Butterfly Effect</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://xmlns.com/foaf/0.1/page'>page</div></td>
+<td><a href='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheButterflyEffect'>TheButterflyEffect</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>The Butterfly Effect is a 2004 American Science Fiction Psychological Thriller film starring Ashton Kutcher, Amy Smart, Eric Stoltz and others, directed and written by Eric Bress and J. Mackye Gruber and distributed by New Line Cinema.It's about Evan Treborn, a guy who can travel back in time by reading his journals and change what happened then, and uses this ability to try to undo various traumatic events he and his friends suffered as children. Despite his best intentions, the results aren't always good for everyone. What's more, his own brain suffers from trying to assimilate all the new memories from these consequences.The title is a reference to the butterfly effect, which theorizes that a change in something seemingly small and innocuous, such as a flap of a butterfly's wings, may have unexpected larger consequences in the future, such as the path a hurricane will travel.It was followed by two largely unrelated Direct-to-DVD sequels, 2 and 3: Revelations.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://dbtropes.org/ont/fetched'>fetched</div></td>
+<td><i>2014-06-17T12:22:07Z</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://dbtropes.org/ont/parsed'>parsed</div></td>
+<td><i>2014-09-23T05:07:58Z</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://dbtropes.org/ont/processingCategory1'>processingCategory1</div></td>
+<td><a href='http://dbtropes.org/resource/Main/FilmsOf20002004'>Films of 2000-2004</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://dbtropes.org/ont/processingCategory1'>processingCategory1</div></td>
+<td><a href='http://dbtropes.org/resource/Main/NebulaAward'>Nebula Award</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://dbtropes.org/ont/processingCategory1'>processingCategory1</div></td>
+<td><a href='http://dbtropes.org/resource/Main/PsychologicalThriller'>Psychological Thriller</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://dbtropes.org/ont/processingComment'>processingComment</div></td>
+<td><i>Dropped link to AnAesop: Not a Feature - IGNORE</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://dbtropes.org/ont/processingComment'>processingComment</div></td>
+<td><i>Dropped link to BlondGuysAreEvil: Not a Feature - ITEM</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://purl.org/dc/terms/isPartOf'>isPartOf</div></td>
+<td><a href='http://dbtropes.org/ont/DBTropes'>DBTropes</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#seeAlso'>seeAlso</div></td>
+<td><a href='http://dbtropes.org/resource/Main/ButterflyOfDoom'>Butterfly of Doom</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#seeAlso'>seeAlso</div></td>
+<td><a href='http://dbtropes.org/resource/Main/DirectToDVD'>DirectToDVD</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#seeAlso'>seeAlso</div></td>
+<td><a href='http://dbtropes.org/resource/Main/InNameOnly'>In Name Only</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#seeAlso'>seeAlso</div></td>
+<td><a href='http://dbtropes.org/resource/Main/PsychologicalThriller'>Psychological Thriller</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#seeAlso'>seeAlso</div></td>
+<td><a href='http://dbtropes.org/resource/Main/ScienceFiction'>Science Fiction</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_101087a' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_101087a'>Film: The Butterfly Effect / int_101087a</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/MindScrew'>Mind Screw</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_101087a'>Film: The Butterfly Effect / int_101087a</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Mind Screw</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_101087a'>Film: The Butterfly Effect / int_101087a</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_101087a'>Film: The Butterfly Effect / int_101087a</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_101087a'>Film: The Butterfly Effect / int_101087a</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_101dd522' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_101dd522'>Film: The Butterfly Effect / int_101dd522</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/ItsAWonderfulPlot'>It's a Wonderful Plot</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_101dd522'>Film: The Butterfly Effect / int_101dd522</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>It's a Wonderful Plot: The plot of this film is one of the most famous (and cruelest) subversions/deconstructions of this trope. The protagonist's life has been really depressing, and all his friends are worse off than before he met them. He uses his Mental Time Travel abilities to correct his past mistakes, but they each end up making things worse for them and/or himself. Accepting that they really are better off without him, he eventually decides that the only way to make them all happy is to remove his presence from their lives entirely. The director's cut was even worse; in that version, he travels back so he dies in his mother's womb, just so his loved ones can live their lives without his damaging influence.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_101dd522'>Film: The Butterfly Effect / int_101dd522</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_101dd522'>Film: The Butterfly Effect / int_101dd522</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_101dd522'>Film: The Butterfly Effect / int_101dd522</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_137cd822' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_137cd822'>Film: The Butterfly Effect / int_137cd822</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/HeroicBSOD'>Heroic BSOD</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_137cd822'>Film: The Butterfly Effect / int_137cd822</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Heroic BSOD: Lenny has this after the dynamite incident.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_137cd822'>Film: The Butterfly Effect / int_137cd822</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_137cd822'>Film: The Butterfly Effect / int_137cd822</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_137cd822'>Film: The Butterfly Effect / int_137cd822</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_192fb48d' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_192fb48d'>Film: The Butterfly Effect / int_192fb48d</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/BigBad'>Big Bad</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_192fb48d'>Film: The Butterfly Effect / int_192fb48d</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Big Bad: Tommy and Kayleigh's pedophile father, who is directly or indirectly responsible for everything bad that happens to the characters.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_192fb48d'>Film: The Butterfly Effect / int_192fb48d</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_192fb48d'>Film: The Butterfly Effect / int_192fb48d</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_192fb48d'>Film: The Butterfly Effect / int_192fb48d</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_195d94b8' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_195d94b8'>Film: The Butterfly Effect / int_195d94b8</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/NotQuiteTheRightThing'>Not Quite The Right Thing</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_195d94b8'>Film: The Butterfly Effect / int_195d94b8</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Not Quite The Right Thing: The reason things go downhill. Any time Evan tries to go back and do what seems to be the right thing. Any time.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_195d94b8'>Film: The Butterfly Effect / int_195d94b8</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_195d94b8'>Film: The Butterfly Effect / int_195d94b8</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_195d94b8'>Film: The Butterfly Effect / int_195d94b8</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_1f22c78' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_1f22c78'>Film: The Butterfly Effect / int_1f22c78</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/InstantWinCondition'>Instant-Win Condition</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_1f22c78'>Film: The Butterfly Effect / int_1f22c78</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Instant-Win Condition</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_1f22c78'>Film: The Butterfly Effect / int_1f22c78</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_1f22c78'>Film: The Butterfly Effect / int_1f22c78</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_1f22c78'>Film: The Butterfly Effect / int_1f22c78</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_1fcab41c' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_1fcab41c'>Film: The Butterfly Effect / int_1fcab41c</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/DeathIsTheOnlyOption'>Death Is The Only Option</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_1fcab41c'>Film: The Butterfly Effect / int_1fcab41c</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Death Is the Only Option: The director's cut ending invokes this trope. Evan strangles himself with the umbilical cord in his mother's womb to make life better for the people he knew.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_1fcab41c'>Film: The Butterfly Effect / int_1fcab41c</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_1fcab41c'>Film: The Butterfly Effect / int_1fcab41c</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_1fcab41c'>Film: The Butterfly Effect / int_1fcab41c</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_26005a10' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_26005a10'>Film: The Butterfly Effect / int_26005a10</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/InSpiteOfANail'>In Spite of a Nail</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_26005a10'>Film: The Butterfly Effect / int_26005a10</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>In Spite of a Nail: Evan goes back in time just to stab his own hands on the teacher's spiky desktop notepad in second grade so he can re-live his whole life, land up in the same jail about to be raped by the same prison gang, and prove to his cellmate that he has magical powers in the form of stigmata. As if the movie wasn't enough of a Mind Screw, every single other time Evan changed the past, no one else noticed ANYTHING different, but that ONE time his cell mate suddenly notices the &quot;new&quot; scars that should have been there the whole time from his PoV.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_26005a10'>Film: The Butterfly Effect / int_26005a10</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_26005a10'>Film: The Butterfly Effect / int_26005a10</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_26005a10'>Film: The Butterfly Effect / int_26005a10</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_27390b10' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_27390b10'>Film: The Butterfly Effect / int_27390b10</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/CrapsackWorld'>Crapsack World</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_27390b10'>Film: The Butterfly Effect / int_27390b10</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>World Half Empty</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_27390b10'>Film: The Butterfly Effect / int_27390b10</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_27390b10'>Film: The Butterfly Effect / int_27390b10</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_27390b10'>Film: The Butterfly Effect / int_27390b10</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_2951bf73' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_2951bf73'>Film: The Butterfly Effect / int_2951bf73</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/BrokenAesop'>Broken Aesop</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_2951bf73'>Film: The Butterfly Effect / int_2951bf73</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Broken Aesop: The lesson that you can't possibly undo all of your past mistakes and that you have to accept them for what they are is broken by both of the endings, as Evan does precisely that by removing himself from Kayleigh's life entirely. The real mistake he had to fix was meeting her in the first place (theatrical cut) or being born at all (director's cut).</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_2951bf73'>Film: The Butterfly Effect / int_2951bf73</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_2951bf73'>Film: The Butterfly Effect / int_2951bf73</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_2951bf73'>Film: The Butterfly Effect / int_2951bf73</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_2bd2aebd' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_2bd2aebd'>Film: The Butterfly Effect / int_2bd2aebd</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/IncestSubtext'>Incest Subtext</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_2bd2aebd'>Film: The Butterfly Effect / int_2bd2aebd</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Incest Subtext: Tommy made a rather un-brotherly remark towards his sister Kayleigh in one timeline.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_2bd2aebd'>Film: The Butterfly Effect / int_2bd2aebd</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_2bd2aebd'>Film: The Butterfly Effect / int_2bd2aebd</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_2bd2aebd'>Film: The Butterfly Effect / int_2bd2aebd</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_2d66fc95' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_2d66fc95'>Film: The Butterfly Effect / int_2d66fc95</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/BreakHisHeartToSaveHim'>Break His Heart to Save Him</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_2d66fc95'>Film: The Butterfly Effect / int_2d66fc95</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Break Her Heart To Save Her: In the theatrical cut, Evan finally decides that the best course of action is to go back to where he and Kayleigh first meet and be mean to her, so she never befriends him, moves away with her mother and avoids the sexual abuse by her father which ultimately leads to her suicide.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_2d66fc95'>Film: The Butterfly Effect / int_2d66fc95</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_2d66fc95'>Film: The Butterfly Effect / int_2d66fc95</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_2d66fc95'>Film: The Butterfly Effect / int_2d66fc95</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_32d7d01c' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_32d7d01c'>Film: The Butterfly Effect / int_32d7d01c</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/RippleEffectProofMemory'>Ripple-Effect-Proof Memory</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_32d7d01c'>Film: The Butterfly Effect / int_32d7d01c</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Ripple-Effect-Proof Memory: Memories from the &quot;new&quot; timeline hit Evan in a rush, giving him a nosebleed...caused by brain hemorrhaging.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_32d7d01c'>Film: The Butterfly Effect / int_32d7d01c</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_32d7d01c'>Film: The Butterfly Effect / int_32d7d01c</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_32d7d01c'>Film: The Butterfly Effect / int_32d7d01c</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_36220c8d' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_36220c8d'>Film: The Butterfly Effect / int_36220c8d</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/GrandfatherParadox'>Grandfather Paradox</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_36220c8d'>Film: The Butterfly Effect / int_36220c8d</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Grandfather Paradox: No matter what ending you watch (or what ending you want to prefer), the plot is resolved in a manner that would make it impossible and/or unnecessary for Evan to ever travel back in time and influence past events, which means he never traveled back in time and changed the timeline, which means Evan went back in time and changed the timeline, which means he never traveled back in time, which means he did, which means he never did, which means he did...</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_36220c8d'>Film: The Butterfly Effect / int_36220c8d</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_36220c8d'>Film: The Butterfly Effect / int_36220c8d</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_36220c8d'>Film: The Butterfly Effect / int_36220c8d</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_3959747a' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_3959747a'>Film: The Butterfly Effect / int_3959747a</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/WhereItAllBegan'>Where It All Began</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_3959747a'>Film: The Butterfly Effect / int_3959747a</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Where It All Began</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_3959747a'>Film: The Butterfly Effect / int_3959747a</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_3959747a'>Film: The Butterfly Effect / int_3959747a</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_3959747a'>Film: The Butterfly Effect / int_3959747a</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_3e555470' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_3e555470'>Film: The Butterfly Effect / int_3e555470</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/IWantMyBelovedToBeHappy'>I Want My Beloved to Be Happy</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_3e555470'>Film: The Butterfly Effect / int_3e555470</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>I Want My Beloved to Be Happy</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_3e555470'>Film: The Butterfly Effect / int_3e555470</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_3e555470'>Film: The Butterfly Effect / int_3e555470</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_3e555470'>Film: The Butterfly Effect / int_3e555470</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_40fc91c3' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_40fc91c3'>Film: The Butterfly Effect / int_40fc91c3</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/TookALevelInBadass'>Took a Level in Badass</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_40fc91c3'>Film: The Butterfly Effect / int_40fc91c3</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Took a Level in Badass: Evan, after dealing with the thugs in prison.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_40fc91c3'>Film: The Butterfly Effect / int_40fc91c3</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_40fc91c3'>Film: The Butterfly Effect / int_40fc91c3</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_40fc91c3'>Film: The Butterfly Effect / int_40fc91c3</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_42f4b2e6' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_42f4b2e6'>Film: The Butterfly Effect / int_42f4b2e6</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/NightmareFuelStationAttendant'>Nightmare Fuel Station Attendant</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_42f4b2e6'>Film: The Butterfly Effect / int_42f4b2e6</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Nightmare Fuel Station Attendant: Subverted, but still disturbing.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_42f4b2e6'>Film: The Butterfly Effect / int_42f4b2e6</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>-0.3</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_42f4b2e6'>Film: The Butterfly Effect / int_42f4b2e6</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_42f4b2e6'>Film: The Butterfly Effect / int_42f4b2e6</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_431fb40b' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_431fb40b'>Film: The Butterfly Effect / int_431fb40b</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/RevisedEnding'>Revised Ending</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_431fb40b'>Film: The Butterfly Effect / int_431fb40b</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Revised Ending</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_431fb40b'>Film: The Butterfly Effect / int_431fb40b</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_431fb40b'>Film: The Butterfly Effect / int_431fb40b</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_431fb40b'>Film: The Butterfly Effect / int_431fb40b</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_4742696e' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_4742696e'>Film: The Butterfly Effect / int_4742696e</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/ButtMonkey'>Butt Monkey</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_4742696e'>Film: The Butterfly Effect / int_4742696e</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Butt Monkey: Taken to the extreme.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_4742696e'>Film: The Butterfly Effect / int_4742696e</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_4742696e'>Film: The Butterfly Effect / int_4742696e</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_4742696e'>Film: The Butterfly Effect / int_4742696e</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_4ea67fe9' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_4ea67fe9'>Film: The Butterfly Effect / int_4ea67fe9</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/KavorkaMan'>Kavorka Man</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_4ea67fe9'>Film: The Butterfly Effect / int_4ea67fe9</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Kavorka Man: Evan's roommate Thumper, who's seen making out with an array of hot girls despite being an obese guy in goth clothing.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_4ea67fe9'>Film: The Butterfly Effect / int_4ea67fe9</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_4ea67fe9'>Film: The Butterfly Effect / int_4ea67fe9</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_4ea67fe9'>Film: The Butterfly Effect / int_4ea67fe9</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_4fd773f0' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_4fd773f0'>Film: The Butterfly Effect / int_4fd773f0</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/GroundhogPeggySue'>Groundhog Peggy Sue</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_4fd773f0'>Film: The Butterfly Effect / int_4fd773f0</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Groundhog Peggy Sue</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_4fd773f0'>Film: The Butterfly Effect / int_4fd773f0</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_4fd773f0'>Film: The Butterfly Effect / int_4fd773f0</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_4fd773f0'>Film: The Butterfly Effect / int_4fd773f0</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_504c30bd' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_504c30bd'>Film: The Butterfly Effect / int_504c30bd</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/TrainStationGoodbye'>Train-Station Goodbye</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_504c30bd'>Film: The Butterfly Effect / int_504c30bd</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Train-Station Goodbye</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_504c30bd'>Film: The Butterfly Effect / int_504c30bd</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_504c30bd'>Film: The Butterfly Effect / int_504c30bd</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_504c30bd'>Film: The Butterfly Effect / int_504c30bd</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_52a621cb' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_52a621cb'>Film: The Butterfly Effect / int_52a621cb</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/ButterflyOfDoom'>Butterfly of Doom</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_52a621cb'>Film: The Butterfly Effect / int_52a621cb</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Butterfly of Doom</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_52a621cb'>Film: The Butterfly Effect / int_52a621cb</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_52a621cb'>Film: The Butterfly Effect / int_52a621cb</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_52a621cb'>Film: The Butterfly Effect / int_52a621cb</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_5510dc38' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_5510dc38'>Film: The Butterfly Effect / int_5510dc38</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/RetGone'>Ret Gone</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_5510dc38'>Film: The Butterfly Effect / int_5510dc38</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Ret Gone: Evan nullifying his own existence in the director's cut.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_5510dc38'>Film: The Butterfly Effect / int_5510dc38</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_5510dc38'>Film: The Butterfly Effect / int_5510dc38</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_5510dc38'>Film: The Butterfly Effect / int_5510dc38</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_58943207' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_58943207'>Film: The Butterfly Effect / int_58943207</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/AllJustADream'>All Just a Dream</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_58943207'>Film: The Butterfly Effect / int_58943207</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>All Just a Dream: Subverted. At one point near the end of the film, it looks like the story is gonna go out with a Twist Ending. As Evan's doctor explains that there are no journals, he asserts that everything that we've apparently seen so far is a delusion that Evan created to cope with the guilt of killing Kayleigh, describing alternate universes with colleges, prisons and paraplegia. Then it turns out that the mental time travel was real when Evan goes back one last time.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_58943207'>Film: The Butterfly Effect / int_58943207</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>-0.3</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_58943207'>Film: The Butterfly Effect / int_58943207</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_58943207'>Film: The Butterfly Effect / int_58943207</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_5cca2830' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_5cca2830'>Film: The Butterfly Effect / int_5cca2830</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/WoobieDestroyerOfWorlds'>Woobie, Destroyer of Worlds</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_5cca2830'>Film: The Butterfly Effect / int_5cca2830</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Woobie, Destroyer of Worlds: Evan unintentionally becomes one of these.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_5cca2830'>Film: The Butterfly Effect / int_5cca2830</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_5cca2830'>Film: The Butterfly Effect / int_5cca2830</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_5cca2830'>Film: The Butterfly Effect / int_5cca2830</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_60233082' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_60233082'>Film: The Butterfly Effect / int_60233082</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/BlessedWithSuck'>Blessed with Suck</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_60233082'>Film: The Butterfly Effect / int_60233082</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Blessed with Suck</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_60233082'>Film: The Butterfly Effect / int_60233082</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_60233082'>Film: The Butterfly Effect / int_60233082</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_60233082'>Film: The Butterfly Effect / int_60233082</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_606f8380' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_606f8380'>Film: The Butterfly Effect / int_606f8380</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/ImpaledPalm'>Impaled Palm</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_606f8380'>Film: The Butterfly Effect / int_606f8380</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Impaled Palm: Evan does this to himself, to get stigmata-like scars on his hands as a little kid, as a part of a complex plan to get his religious present-day cellmate to believe him. (Time Travel is involved.)</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_606f8380'>Film: The Butterfly Effect / int_606f8380</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_606f8380'>Film: The Butterfly Effect / int_606f8380</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_606f8380'>Film: The Butterfly Effect / int_606f8380</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_66ad17ba' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_66ad17ba'>Film: The Butterfly Effect / int_66ad17ba</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/BlofeldPloy'>Blofeld Ploy</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_66ad17ba'>Film: The Butterfly Effect / int_66ad17ba</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Blofeld Ploy: Tommy beats the shit out of a random kid in a movie theater after he sees Evan kissing Kayleigh.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_66ad17ba'>Film: The Butterfly Effect / int_66ad17ba</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_66ad17ba'>Film: The Butterfly Effect / int_66ad17ba</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_66ad17ba'>Film: The Butterfly Effect / int_66ad17ba</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_6e4d8ebc' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_6e4d8ebc'>Film: The Butterfly Effect / int_6e4d8ebc</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/HeelFaceDoorSlam'>Heel Face Door Slam</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_6e4d8ebc'>Film: The Butterfly Effect / int_6e4d8ebc</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Heel Face Door Slam: Tommy in one reality. Evan manages to convince him not to kill his dog and invoke his Big Brother Instinct...only for Lenny to stab him from behind.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_6e4d8ebc'>Film: The Butterfly Effect / int_6e4d8ebc</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_6e4d8ebc'>Film: The Butterfly Effect / int_6e4d8ebc</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_6e4d8ebc'>Film: The Butterfly Effect / int_6e4d8ebc</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_707e2a8b' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_707e2a8b'>Film: The Butterfly Effect / int_707e2a8b</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/HollywoodLaw'>Hollywood Law</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_707e2a8b'>Film: The Butterfly Effect / int_707e2a8b</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Hollywood Law: Evan wouldn't go to a regular prison, but county lockup, since he hadn't even been tried. The filmmakers knew this; it was cooler filming in a prison, though.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_707e2a8b'>Film: The Butterfly Effect / int_707e2a8b</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_707e2a8b'>Film: The Butterfly Effect / int_707e2a8b</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_707e2a8b'>Film: The Butterfly Effect / int_707e2a8b</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_74cff237' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_74cff237'>Film: The Butterfly Effect / int_74cff237</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/PrisonRape'>Prison Rape</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_74cff237'>Film: The Butterfly Effect / int_74cff237</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Prison Rape: A very brutal example.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_74cff237'>Film: The Butterfly Effect / int_74cff237</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_74cff237'>Film: The Butterfly Effect / int_74cff237</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_74cff237'>Film: The Butterfly Effect / int_74cff237</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_7b49168b' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_7b49168b'>Film: The Butterfly Effect / int_7b49168b</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/TimeIsDangerous'>Time Is Dangerous</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_7b49168b'>Film: The Butterfly Effect / int_7b49168b</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Time Is Dangerous: The director's cut reveals that Evan suffers minor brain damage every time he majorly changes the past, resulting in severe migraines and nosebleeds as he gets the extra memories (often 20 years worth) burnt onto his existing ones. On the other hand, he's Genre Savvy enough to realize that repeated time travel might ultimately kill him, causing him to intentionally think through what he wants to change before each trip.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_7b49168b'>Film: The Butterfly Effect / int_7b49168b</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_7b49168b'>Film: The Butterfly Effect / int_7b49168b</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_7b49168b'>Film: The Butterfly Effect / int_7b49168b</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_881de655' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_881de655'>Film: The Butterfly Effect / int_881de655</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/HeroicSacrifice'>Heroic Sacrifice</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_881de655'>Film: The Butterfly Effect / int_881de655</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Heroic Sacrifice: Strangling yourself as a fetus?!</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_881de655'>Film: The Butterfly Effect / int_881de655</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_881de655'>Film: The Butterfly Effect / int_881de655</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_881de655'>Film: The Butterfly Effect / int_881de655</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_8b98727e' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_8b98727e'>Film: The Butterfly Effect / int_8b98727e</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/DownerEnding'>Downer Ending</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_8b98727e'>Film: The Butterfly Effect / int_8b98727e</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Downer Ending: The director's cut. Evan realizes that he's the reason why everyone else's lives are so miserable, so he travels back to when he was still in his mother's womb and suffocates himself.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_8b98727e'>Film: The Butterfly Effect / int_8b98727e</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_8b98727e'>Film: The Butterfly Effect / int_8b98727e</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_8b98727e'>Film: The Butterfly Effect / int_8b98727e</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_8c106252' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_8c106252'>Film: The Butterfly Effect / int_8c106252</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/HeroicSuicide'>Heroic Suicide</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_8c106252'>Film: The Butterfly Effect / int_8c106252</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Heroic Suicide: Evan in the director's cut.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_8c106252'>Film: The Butterfly Effect / int_8c106252</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_8c106252'>Film: The Butterfly Effect / int_8c106252</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_8c106252'>Film: The Butterfly Effect / int_8c106252</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_8fe56436' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_8fe56436'>Film: The Butterfly Effect / int_8fe56436</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/CrapsackWorld'>Crapsack World</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_8fe56436'>Film: The Butterfly Effect / int_8fe56436</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Crapsack World: It starts here and gets worse. And worse, and worse, and worse...</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_8fe56436'>Film: The Butterfly Effect / int_8fe56436</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_8fe56436'>Film: The Butterfly Effect / int_8fe56436</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_8fe56436'>Film: The Butterfly Effect / int_8fe56436</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_911732c7' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_911732c7'>Film: The Butterfly Effect / int_911732c7</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/DrivenToSuicide'>Driven to Suicide</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_911732c7'>Film: The Butterfly Effect / int_911732c7</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Driven to Suicide</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_911732c7'>Film: The Butterfly Effect / int_911732c7</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_911732c7'>Film: The Butterfly Effect / int_911732c7</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_911732c7'>Film: The Butterfly Effect / int_911732c7</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_9478f8f3' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_9478f8f3'>Film: The Butterfly Effect / int_9478f8f3</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/HeelFaithTurn'>Heel-Faith Turn</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_9478f8f3'>Film: The Butterfly Effect / int_9478f8f3</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Heel-Faith Turn: Tommy in an alternate timeline.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_9478f8f3'>Film: The Butterfly Effect / int_9478f8f3</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_9478f8f3'>Film: The Butterfly Effect / int_9478f8f3</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_9478f8f3'>Film: The Butterfly Effect / int_9478f8f3</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_9ec288fc' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_9ec288fc'>Film: The Butterfly Effect / int_9ec288fc</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/HairOfGoldHeartOfGold'>Hair of Gold, Heart of Gold</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_9ec288fc'>Film: The Butterfly Effect / int_9ec288fc</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Hair of Gold, Heart of Gold: In several realities, Kayley, especially while still a child.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_9ec288fc'>Film: The Butterfly Effect / int_9ec288fc</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_9ec288fc'>Film: The Butterfly Effect / int_9ec288fc</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_9ec288fc'>Film: The Butterfly Effect / int_9ec288fc</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_9f2a25e3' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_9f2a25e3'>Film: The Butterfly Effect / int_9f2a25e3</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/BeardOfSorrow'>Beard of Sorrow</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_9f2a25e3'>Film: The Butterfly Effect / int_9f2a25e3</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Beard of Sorrow: It's subtle, but there. In the futures that Evan loses Kayleigh in, he's always grown out a full beard. When he's still with her in the &quot;frat-boy&quot; future, he's shaved it down to a goatee, but it isn't until the very end of the movie, when he's put her being a part of his life behind him that he's clean-shaven.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_9f2a25e3'>Film: The Butterfly Effect / int_9f2a25e3</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_9f2a25e3'>Film: The Butterfly Effect / int_9f2a25e3</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_9f2a25e3'>Film: The Butterfly Effect / int_9f2a25e3</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_a093e84e' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_a093e84e'>Film: The Butterfly Effect / int_a093e84e</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/KidsAreCruel'>Kids Are Cruel</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_a093e84e'>Film: The Butterfly Effect / int_a093e84e</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Kids Are Cruel</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_a093e84e'>Film: The Butterfly Effect / int_a093e84e</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_a093e84e'>Film: The Butterfly Effect / int_a093e84e</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_a093e84e'>Film: The Butterfly Effect / int_a093e84e</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_a0987718' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_a0987718'>Film: The Butterfly Effect / int_a0987718</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/StarCrossedLovers'>Star-Crossed Lovers</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_a0987718'>Film: The Butterfly Effect / int_a0987718</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Star-Crossed Lovers: At least in the director's cut, Evan and Kayleigh just aren't meant to be together.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_a0987718'>Film: The Butterfly Effect / int_a0987718</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_a0987718'>Film: The Butterfly Effect / int_a0987718</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_a0987718'>Film: The Butterfly Effect / int_a0987718</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_a0fe0f61' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_a0fe0f61'>Film: The Butterfly Effect / int_a0fe0f61</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/RelationshipResetButton'>Relationship Reset Button</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_a0fe0f61'>Film: The Butterfly Effect / int_a0fe0f61</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Relationship Reset Button: The ending.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_a0fe0f61'>Film: The Butterfly Effect / int_a0fe0f61</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_a0fe0f61'>Film: The Butterfly Effect / int_a0fe0f61</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_a0fe0f61'>Film: The Butterfly Effect / int_a0fe0f61</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_a73fa0c0' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_a73fa0c0'>Film: The Butterfly Effect / int_a73fa0c0</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/NiceJobBreakingItHero'>Nice Job Breaking It, Hero</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_a73fa0c0'>Film: The Butterfly Effect / int_a73fa0c0</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Nice Job Breaking It, Hero: Every single goddamn time he goes back to &quot;fix&quot; something. The first time, he seems to get it right and has the perfect life when he gets back to the present. But then he manages to screw it up by murdering his girlfriend's psychotic brother and getting put in prison. Brilliant.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_a73fa0c0'>Film: The Butterfly Effect / int_a73fa0c0</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_a73fa0c0'>Film: The Butterfly Effect / int_a73fa0c0</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_a73fa0c0'>Film: The Butterfly Effect / int_a73fa0c0</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_af17565c' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_af17565c'>Film: The Butterfly Effect / int_af17565c</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/BurnBabyBurn'>Burn Baby Burn</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_af17565c'>Film: The Butterfly Effect / int_af17565c</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Burn Baby Burn: Turns out this is what originally happened with the dynamite. Also the ending (although that was hinted at throughout).</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_af17565c'>Film: The Butterfly Effect / int_af17565c</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_af17565c'>Film: The Butterfly Effect / int_af17565c</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_af17565c'>Film: The Butterfly Effect / int_af17565c</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_b2116de' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_b2116de'>Film: The Butterfly Effect / int_b2116de</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/Foreshadowing'>Foreshadowing</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_b2116de'>Film: The Butterfly Effect / int_b2116de</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Foreshadowing: You have no life-line. No soul. You were never meant to be.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_b2116de'>Film: The Butterfly Effect / int_b2116de</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_b2116de'>Film: The Butterfly Effect / int_b2116de</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_b2116de'>Film: The Butterfly Effect / int_b2116de</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_b41f4d45' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_b41f4d45'>Film: The Butterfly Effect / int_b41f4d45</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/ParentalIncest'>Parental Incest</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_b41f4d45'>Film: The Butterfly Effect / int_b41f4d45</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Parental Incest: Kayleigh was molested by her father. He molested Tommmy instead in another timeline.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_b41f4d45'>Film: The Butterfly Effect / int_b41f4d45</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_b41f4d45'>Film: The Butterfly Effect / int_b41f4d45</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_b41f4d45'>Film: The Butterfly Effect / int_b41f4d45</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_b5055876' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_b5055876'>Film: The Butterfly Effect / int_b5055876</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/AbusiveParents'>Abusive Parents</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_b5055876'>Film: The Butterfly Effect / int_b5055876</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Abusive Dad: George Miller</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_b5055876'>Film: The Butterfly Effect / int_b5055876</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_b5055876'>Film: The Butterfly Effect / int_b5055876</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_b5055876'>Film: The Butterfly Effect / int_b5055876</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_bc421ae' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_bc421ae'>Film: The Butterfly Effect / int_bc421ae</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/NextSundayAD'>Next Sunday A.D.</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_bc421ae'>Film: The Butterfly Effect / int_bc421ae</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Next Sunday A.D.: The epilogue takes place eight years in the future, which would be 2010.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_bc421ae'>Film: The Butterfly Effect / int_bc421ae</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_bc421ae'>Film: The Butterfly Effect / int_bc421ae</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_bc421ae'>Film: The Butterfly Effect / int_bc421ae</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_bf97a2b3' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_bf97a2b3'>Film: The Butterfly Effect / int_bf97a2b3</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/MeaningfulName'>Meaningful Name</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_bf97a2b3'>Film: The Butterfly Effect / int_bf97a2b3</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Meaningful Name: &quot;Evan Treborn&quot; = &quot;event reborn&quot;, alluding to Evan's and his father's power. His name was originally going to be &quot;Chris Treborn,&quot; but the writers feared the wrath of religious groups.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_bf97a2b3'>Film: The Butterfly Effect / int_bf97a2b3</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_bf97a2b3'>Film: The Butterfly Effect / int_bf97a2b3</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_bf97a2b3'>Film: The Butterfly Effect / int_bf97a2b3</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_c040125a' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_c040125a'>Film: The Butterfly Effect / int_c040125a</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/HookerWithAHeartOfGold'>Hooker with a Heart of Gold</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_c040125a'>Film: The Butterfly Effect / int_c040125a</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Hooker with a Heart of Gold: Deconstructed.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_c040125a'>Film: The Butterfly Effect / int_c040125a</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_c040125a'>Film: The Butterfly Effect / int_c040125a</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_c040125a'>Film: The Butterfly Effect / int_c040125a</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_cc2d7bde' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_cc2d7bde'>Film: The Butterfly Effect / int_cc2d7bde</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/FromBadToWorse'>From Bad to Worse</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_cc2d7bde'>Film: The Butterfly Effect / int_cc2d7bde</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>From Bad to Worse: and worse and worse and worse.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_cc2d7bde'>Film: The Butterfly Effect / int_cc2d7bde</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_cc2d7bde'>Film: The Butterfly Effect / int_cc2d7bde</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_cc2d7bde'>Film: The Butterfly Effect / int_cc2d7bde</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_cd63136f' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_cd63136f'>Film: The Butterfly Effect / int_cd63136f</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/ForWantOfANail'>For Want of a Nail</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_cd63136f'>Film: The Butterfly Effect / int_cd63136f</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>For Want of a Nail: A rusty, spiky nail, in all likelihood.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_cd63136f'>Film: The Butterfly Effect / int_cd63136f</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_cd63136f'>Film: The Butterfly Effect / int_cd63136f</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_cd63136f'>Film: The Butterfly Effect / int_cd63136f</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_d564f2d8' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_d564f2d8'>Film: The Butterfly Effect / int_d564f2d8</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/MentalTimeTravel'>Mental Time Travel</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_d564f2d8'>Film: The Butterfly Effect / int_d564f2d8</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Mental Time Travel</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_d564f2d8'>Film: The Butterfly Effect / int_d564f2d8</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_d564f2d8'>Film: The Butterfly Effect / int_d564f2d8</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_d564f2d8'>Film: The Butterfly Effect / int_d564f2d8</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_dd0a4fbc' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_dd0a4fbc'>Film: The Butterfly Effect / int_dd0a4fbc</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/CreepyChild'>Creepy Child</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_dd0a4fbc'>Film: The Butterfly Effect / int_dd0a4fbc</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Creepy Child: Tommy, who is a total sociopath. Except when he's not, and then he's arguably MORE creepy. He's more of a creepy adult then, though.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_dd0a4fbc'>Film: The Butterfly Effect / int_dd0a4fbc</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_dd0a4fbc'>Film: The Butterfly Effect / int_dd0a4fbc</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_dd0a4fbc'>Film: The Butterfly Effect / int_dd0a4fbc</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_e032c5cd' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_e032c5cd'>Film: The Butterfly Effect / int_e032c5cd</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/ExpositoryHairstyleChange'>Expository Hairstyle Change</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_e032c5cd'>Film: The Butterfly Effect / int_e032c5cd</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Expository Hairstyle Change: Kayley's hair color changes depending on how happy she is in whatever timeline. It's brown and mousy in the timelines where she's miserable and it's blonde when she's happy. Her hair is blonde at the end.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_e032c5cd'>Film: The Butterfly Effect / int_e032c5cd</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_e032c5cd'>Film: The Butterfly Effect / int_e032c5cd</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_e032c5cd'>Film: The Butterfly Effect / int_e032c5cd</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_e0d70e79' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_e0d70e79'>Film: The Butterfly Effect / int_e0d70e79</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/WhenSheSmiles'>When She Smiles</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_e0d70e79'>Film: The Butterfly Effect / int_e0d70e79</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>When She Smiles: Evan has this reaction to Kayleigh in the first alternate reality. He's seen her sad and messed-up so many times that, when he sees her smile, he's convinced he wants to marry her.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_e0d70e79'>Film: The Butterfly Effect / int_e0d70e79</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_e0d70e79'>Film: The Butterfly Effect / int_e0d70e79</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_e0d70e79'>Film: The Butterfly Effect / int_e0d70e79</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_e0e0fc2a' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_e0e0fc2a'>Film: The Butterfly Effect / int_e0e0fc2a</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/TimeyWimeyBall'>Timey-Wimey Ball</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_e0e0fc2a'>Film: The Butterfly Effect / int_e0e0fc2a</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Timey-Wimey Ball: The events of roughly half of Evan's blackouts are caused by his older self going back to them, while the other half were normal initially, but could be changed by his older self. One blackout even has examples of both. Also, it is established early on that Evan is the only who has any memory of the old timelines, but at one point another character notices a change in the timeline for no apparent reason.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_e0e0fc2a'>Film: The Butterfly Effect / int_e0e0fc2a</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_e0e0fc2a'>Film: The Butterfly Effect / int_e0e0fc2a</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_e0e0fc2a'>Film: The Butterfly Effect / int_e0e0fc2a</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_e3e12313' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_e3e12313'>Film: The Butterfly Effect / int_e3e12313</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/DidNotGetTheGirl'>Did Not Get the Girl</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_e3e12313'>Film: The Butterfly Effect / int_e3e12313</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Did Not Get the Girl: This is the least sad part about the ending.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_e3e12313'>Film: The Butterfly Effect / int_e3e12313</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_e3e12313'>Film: The Butterfly Effect / int_e3e12313</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_e3e12313'>Film: The Butterfly Effect / int_e3e12313</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_e4cdb66f' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_e4cdb66f'>Film: The Butterfly Effect / int_e4cdb66f</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/RewritingReality'>Rewriting Reality</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_e4cdb66f'>Film: The Butterfly Effect / int_e4cdb66f</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Rewriting Reality</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_e4cdb66f'>Film: The Butterfly Effect / int_e4cdb66f</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_e4cdb66f'>Film: The Butterfly Effect / int_e4cdb66f</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_e4cdb66f'>Film: The Butterfly Effect / int_e4cdb66f</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_e9272092' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_e9272092'>Film: The Butterfly Effect / int_e9272092</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/ExactWords'>Exact Words</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_e9272092'>Film: The Butterfly Effect / int_e9272092</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Exact Words: &quot;Here, take this rusty spiky thing. You've got to stop Tommy! Cut the rope!&quot; Too bad Lenny took that to mean Tommy's spinal cord.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_e9272092'>Film: The Butterfly Effect / int_e9272092</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_e9272092'>Film: The Butterfly Effect / int_e9272092</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_e9272092'>Film: The Butterfly Effect / int_e9272092</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_e97420e9' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_e97420e9'>Film: The Butterfly Effect / int_e97420e9</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/PlotHole'>Plot Hole</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_e97420e9'>Film: The Butterfly Effect / int_e97420e9</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Plot Hole: Time travel inconsistencies aside, there's no mention of Evan ever having a trial before being sent to prison after he kills Tommy nor is there any mention about why he didn't plead self-defense when the murder was clearly witnessed as such and could have avoided any kind of stay in jail. Concerning the second example: it's easy to extrapolate from his mother's visit that he did plead (and is still pleading through his lawyer) precisely that, but the court was unwilling to believe him because a) his force was excessive (was  beating Tommy to death strictly necessary when he was already subdued with spray, on the ground?) and b) his girlfriend was the only witness; it's possible she argued against him. She didn't really like him doing that to her brother.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_e97420e9'>Film: The Butterfly Effect / int_e97420e9</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_e97420e9'>Film: The Butterfly Effect / int_e97420e9</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_e97420e9'>Film: The Butterfly Effect / int_e97420e9</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_ef031a57' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_ef031a57'>Film: The Butterfly Effect / int_ef031a57</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/TapOnTheHead'>Tap on the Head</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_ef031a57'>Film: The Butterfly Effect / int_ef031a57</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Tap on the Head: Done quite realistically.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_ef031a57'>Film: The Butterfly Effect / int_ef031a57</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_ef031a57'>Film: The Butterfly Effect / int_ef031a57</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_ef031a57'>Film: The Butterfly Effect / int_ef031a57</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_f5231cb2' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_f5231cb2'>Film: The Butterfly Effect / int_f5231cb2</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/SetRightWhatOnceWentWrong'>Set Right What Once Went Wrong</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_f5231cb2'>Film: The Butterfly Effect / int_f5231cb2</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Set Right What Once Went Wrong: Very subverted.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_f5231cb2'>Film: The Butterfly Effect / int_f5231cb2</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>-0.3</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_f5231cb2'>Film: The Butterfly Effect / int_f5231cb2</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_f5231cb2'>Film: The Butterfly Effect / int_f5231cb2</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_fbcd911b' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_fbcd911b'>Film: The Butterfly Effect / int_fbcd911b</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/BittersweetEnding'>Bittersweet Ending</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_fbcd911b'>Film: The Butterfly Effect / int_fbcd911b</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Bittersweet Ending: The theatrical cut. Evan makes sure that he and Kayleigh never become friends by being mean to her when he travels back in time to their first meeting. Kayleigh and Tommy live a happy life away from their abusive father, and Evan and Lenny remain lifelong friends. Evan runs into Kayleigh in a downtown street in New York, but he ignores her after hesitating for a moment.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_fbcd911b'>Film: The Butterfly Effect / int_fbcd911b</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_fbcd911b'>Film: The Butterfly Effect / int_fbcd911b</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_fbcd911b'>Film: The Butterfly Effect / int_fbcd911b</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_fc098aa5' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_fc098aa5'>Film: The Butterfly Effect / int_fc098aa5</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/MySisterIsOffLimits'>My Sister Is Off Limits</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_fc098aa5'>Film: The Butterfly Effect / int_fc098aa5</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>My Sister Is Off Limits</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_fc098aa5'>Film: The Butterfly Effect / int_fc098aa5</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_fc098aa5'>Film: The Butterfly Effect / int_fc098aa5</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_fc098aa5'>Film: The Butterfly Effect / int_fc098aa5</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_fce42201' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_fce42201'>Film: The Butterfly Effect / int_fce42201</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/AssholeVictim'>Asshole Victim</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_fce42201'>Film: The Butterfly Effect / int_fce42201</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Asshole Victim: The inmates that picked on Evan when they get shanked.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_fce42201'>Film: The Butterfly Effect / int_fce42201</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_fce42201'>Film: The Butterfly Effect / int_fce42201</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_fce42201'>Film: The Butterfly Effect / int_fce42201</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_name' href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_name'>Film: The Butterfly Effect / int_name</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://skipforward.net/skipforward/resource/seeder/skipinions/ItemName'>ItemName</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_name'>Film: The Butterfly Effect / int_name</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i></i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_name'>Film: The Butterfly Effect / int_name</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_name'>Film: The Butterfly Effect / int_name</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_name'>Film: The Butterfly Effect / int_name</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect/int_name'>Film: The Butterfly Effect / int_name</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/itemName'>itemName</div></td>
+<td><i>Film: The Butterfly Effect</i></td>
+</tr>
+
+
+</table><p><a name="ref_feature_instances">The following is a list of statements referring to the current page from other pages.</a></p><table><tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/AllJustADream/int_666f1130'>All Just a Dream / int_666f1130</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/BlofeldPloy/int_666f1130'>Blofeld Ploy / int_666f1130</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/BreakHisHeartToSaveHim/int_666f1130'>Break His Heart to Save Him / int_666f1130</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/ButterflyOfDoom/int_666f1130'>Butterfly of Doom / int_666f1130</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/CreepyChild/int_666f1130'>Creepy Child / int_666f1130</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/CriticalDissonance/int_666f1130'>Critical Dissonance / int_666f1130</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/DeathIsTheOnlyOption/int_666f1130'>Death Is The Only Option / int_666f1130</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/DeliberatelyMonochrome/int_666f1130'>Deliberately Monochrome / int_666f1130</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/HeelFaithTurn/int_666f1130'>Heel-Faith Turn / int_666f1130</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/HeyItsThatGuy/int_666f1130'>This entry is trivia, which is cool and all, but not a trope. On a work, it goes on the Trivia tab. Hey, It's That Guy! / int_666f1130</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/HollywoodLaw/int_666f1130'>Hollywood Law / int_666f1130</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/ItsAWonderfulPlot/int_666f1130'>It's a Wonderful Plot / int_666f1130</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/NightmareFuelColoringBook/int_666f1130'>Nightmare Fuel Coloring Book / int_666f1130</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/OralFixation/int_666f1130'>Oral Fixation / int_666f1130</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/OralFixationFixation/int_666f1130'>Oral Fixation Fixation / int_666f1130</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/PlotHole/int_666f1130'>Plot Hole / int_666f1130</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/PsychologicalThriller/int_666f1130'>Psychological Thriller / int_666f1130</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/RapeByProxy/int_666f1130'>Rape By Proxy / int_666f1130</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/RetGone/int_666f1130'>Ret Gone / int_666f1130</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/RevisedEnding/int_666f1130'>Revised Ending / int_666f1130</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/RewritingReality/int_666f1130'>Rewriting Reality / int_666f1130</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/RippleEffectProofMemory/int_666f1130'>Ripple-Effect-Proof Memory / int_666f1130</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/SetRightWhatOnceWentWrong/int_666f1130'>Set Right What Once Went Wrong / int_666f1130</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/TemporalParadox/int_666f1130'>Temporal Paradox / int_666f1130</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/TimeIsDangerous/int_666f1130'>Time Is Dangerous / int_666f1130</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/TimeTravel/int_666f1130'>Time Travel / int_666f1130</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/TimeshiftedActor/int_666f1130'>Time-Shifted Actor / int_666f1130</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/TimeyWimeyBall/int_666f1130'>Timey-Wimey Ball / int_666f1130</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/YouCantFightFate/int_666f1130'>You Can't Fight Fate / int_666f1130</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Webcomic/TimesLikeThis'>Webcomic: Times Like This</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#seeAlso'>seeAlso</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheButterflyEffect'>Film: The Butterfly Effect</a></td>
+</tr>
+
+
+</table><hr/><div id="copyright">Copyright of DBTropes.org wrapper 2009-2013 <a href="http://www.dfki.de/km">DFKI Knowledge Management</a>. <a href="http://www.dfki.de/web/forschung/km/legal-info-en">Imprint</a>.<br/>Copyright of data <a href="http://tvtropes.org/">TVTropes.org</a> contributors under <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-Share Alike 3.0 Unported License</a>.</div></div>
+</body>
+</html>

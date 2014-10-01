@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noindex, nofollow" />
+<!-- Original TVTropes.org is authoritative, let's be nice and not pollute normal HTML search engines. -->
+<link rel="stylesheet" href="/static/main.css" type="text/css" />
+<title>Film: Jack (1996) - DBTropes</title>
+</head>
+<body>
+<div id="main">
+<div style="float: right; margin: 0 20px 0 0;"><a href="/info">Search/Recent Changes</a></div>
+<a href="http://dbtropes.org/">
+<img style="border:0px" alt="DBTropes" title="DBTropes" src="/static/logo.png" /></a><br/><i>...it's like <a href="http://tvtropes.org/">TV Tropes</a>, but <a href="http://linkeddata.org/">LINKED DATA</a>!</i>
+<p/>
+
+<h1>Film: Jack (1996)</h1>
+
+<ul>
+<li>113 statements</li>
+<li>20 <a href="#feature_instances">feature instances</a></li>
+<li>13 <a href="#ref_feature_instances">referencing feature instances</a></li>
+</ul>
+
+<table><tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996'>Film: Jack (1996)</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/ont/TVTItem'>TVTItem</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996'>Film: Jack (1996)</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#label'>label</div></td>
+<td><i>Film: Jack (1996)</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996'>Film: Jack (1996)</a></td>
+<td><div title='http://xmlns.com/foaf/0.1/page'>page</div></td>
+<td><a href='http://tvtropes.org/pmwiki/pmwiki.php/Film/Jack1996'>Jack1996</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996'>Film: Jack (1996)</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>A 1996 film by Francis Ford Coppola starring Robin Williams as a young boy named Jack who, due to an extremely rare disease that is never officially named, ages at four times the normal human rate. The film explores his unique situation, from being the only 10-year-old who can buy pornography, to being mistaken for his elementary school's principal, to all the medical problems he must face as his expedient aging continues.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996'>Film: Jack (1996)</a></td>
+<td><div title='http://dbtropes.org/ont/fetched'>fetched</div></td>
+<td><i>2014-05-02T04:35:34Z</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996'>Film: Jack (1996)</a></td>
+<td><div title='http://dbtropes.org/ont/parsed'>parsed</div></td>
+<td><i>2014-09-23T04:43:19Z</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996'>Film: Jack (1996)</a></td>
+<td><div title='http://dbtropes.org/ont/processingCategory1'>processingCategory1</div></td>
+<td><a href='http://dbtropes.org/resource/Main/FilmsOfThe1990s'>Films of the 1990s</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996'>Film: Jack (1996)</a></td>
+<td><div title='http://dbtropes.org/ont/processingComment'>processingComment</div></td>
+<td><i>Dropped link to HotForTeacher: Not a Feature - UNKNOWN</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996'>Film: Jack (1996)</a></td>
+<td><div title='http://dbtropes.org/ont/processingComment'>processingComment</div></td>
+<td><i>Dropped link to ZigZaggedTrope: Not a Feature - UNKNOWN</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996'>Film: Jack (1996)</a></td>
+<td><div title='http://dbtropes.org/ont/processingUnknown'>processingUnknown</div></td>
+<td><a href='http://dbtropes.org/resource/Main/HotForTeacher'>HotForTeacher</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996'>Film: Jack (1996)</a></td>
+<td><div title='http://dbtropes.org/ont/processingUnknown'>processingUnknown</div></td>
+<td><a href='http://dbtropes.org/resource/Main/ZigZaggedTrope'>ZigZaggedTrope</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996'>Film: Jack (1996)</a></td>
+<td><div title='http://purl.org/dc/terms/isPartOf'>isPartOf</div></td>
+<td><a href='http://dbtropes.org/ont/DBTropes'>DBTropes</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_11f940b4' href='http://dbtropes.org/resource/Film/Jack1996/int_11f940b4'>Film: Jack (1996) / int_11f940b4</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/AwardBaitSong'>Award Bait Song</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_11f940b4'>Film: Jack (1996) / int_11f940b4</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Award Bait Song: Star by Bryan Adams.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_11f940b4'>Film: Jack (1996) / int_11f940b4</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_11f940b4'>Film: Jack (1996) / int_11f940b4</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996'>Film: Jack (1996)</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Jack1996/int_11f940b4'>Film: Jack (1996) / int_11f940b4</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_26c4d002' href='http://dbtropes.org/resource/Film/Jack1996/int_26c4d002'>Film: Jack (1996) / int_26c4d002</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/ProtagonistTitle'>Protagonist Title</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_26c4d002'>Film: Jack (1996) / int_26c4d002</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Protagonist Title</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_26c4d002'>Film: Jack (1996) / int_26c4d002</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_26c4d002'>Film: Jack (1996) / int_26c4d002</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996'>Film: Jack (1996)</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Jack1996/int_26c4d002'>Film: Jack (1996) / int_26c4d002</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_35cb9808' href='http://dbtropes.org/resource/Film/Jack1996/int_35cb9808'>Film: Jack (1996) / int_35cb9808</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/RapidAging'>Rapid Aging</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_35cb9808'>Film: Jack (1996) / int_35cb9808</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Rapid Aging: At a ratio of 4:1, most of the movie showing Jack at age 10 with the body of a 40-year-old.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_35cb9808'>Film: Jack (1996) / int_35cb9808</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_35cb9808'>Film: Jack (1996) / int_35cb9808</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996'>Film: Jack (1996)</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Jack1996/int_35cb9808'>Film: Jack (1996) / int_35cb9808</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_4cecc86' href='http://dbtropes.org/resource/Film/Jack1996/int_4cecc86'>Film: Jack (1996) / int_4cecc86</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/NotAllowedToGrowUp'>Not Allowed to Grow Up</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_4cecc86'>Film: Jack (1996) / int_4cecc86</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Not Allowed to Grow Up: Completely averted; Jack can't help but grow up.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_4cecc86'>Film: Jack (1996) / int_4cecc86</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>-1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_4cecc86'>Film: Jack (1996) / int_4cecc86</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996'>Film: Jack (1996)</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Jack1996/int_4cecc86'>Film: Jack (1996) / int_4cecc86</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_509e4227' href='http://dbtropes.org/resource/Film/Jack1996/int_509e4227'>Film: Jack (1996) / int_509e4227</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/HomeschooledKids'>Homeschooled Kids</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_509e4227'>Film: Jack (1996) / int_509e4227</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Homeschooled Kids: Jack is one intermittently; his parents want to protect him.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_509e4227'>Film: Jack (1996) / int_509e4227</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_509e4227'>Film: Jack (1996) / int_509e4227</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996'>Film: Jack (1996)</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Jack1996/int_509e4227'>Film: Jack (1996) / int_509e4227</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_5db35d01' href='http://dbtropes.org/resource/Film/Jack1996/int_5db35d01'>Film: Jack (1996) / int_5db35d01</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/VisualPun'>Visual Pun</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_5db35d01'>Film: Jack (1996) / int_5db35d01</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Visual Pun: The pair of females sitting making derogatory comments about Jack's mother's weight at the start of the film are dressed as catgirls... they're being catty.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_5db35d01'>Film: Jack (1996) / int_5db35d01</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_5db35d01'>Film: Jack (1996) / int_5db35d01</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996'>Film: Jack (1996)</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Jack1996/int_5db35d01'>Film: Jack (1996) / int_5db35d01</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_61e9c9e5' href='http://dbtropes.org/resource/Film/Jack1996/int_61e9c9e5'>Film: Jack (1996) / int_61e9c9e5</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/ArtisticLicenseBiology'>Artistic License - Biology</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_61e9c9e5'>Film: Jack (1996) / int_61e9c9e5</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Artistic License - Biology: There is a rare disease called Hutchinson-Gilford progeria syndrome, in which a child from an early age exhibits rapid aging of the body&loz;, but not the mind. The longest they usually live is to their early 20s. The movie disease seems to match this pretty well, save for the looking like a normal adult part. Depending on your interpretation, this may be justified by Rule of Symbolism and An Aesop about doing what you can with the time you have. A doctor does specifically mention progeria, and that it's not what Jack has, stating that Jack's condition is completely unprecedented.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_61e9c9e5'>Film: Jack (1996) / int_61e9c9e5</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_61e9c9e5'>Film: Jack (1996) / int_61e9c9e5</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996'>Film: Jack (1996)</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Jack1996/int_61e9c9e5'>Film: Jack (1996) / int_61e9c9e5</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_67932b8a' href='http://dbtropes.org/resource/Film/Jack1996/int_67932b8a'>Film: Jack (1996) / int_67932b8a</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/ManChild'>Man Child</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_67932b8a'>Film: Jack (1996) / int_67932b8a</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Man Child: Jack, of course.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_67932b8a'>Film: Jack (1996) / int_67932b8a</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_67932b8a'>Film: Jack (1996) / int_67932b8a</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996'>Film: Jack (1996)</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Jack1996/int_67932b8a'>Film: Jack (1996) / int_67932b8a</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_8a603e40' href='http://dbtropes.org/resource/Film/Jack1996/int_8a603e40'>Film: Jack (1996) / int_8a603e40</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/ZergRush'>Zerg Rush</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_8a603e40'>Film: Jack (1996) / int_8a603e40</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Zerg Rush: Jack's schoolmates approach his house in waves, asking his mother to let him out to play.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_8a603e40'>Film: Jack (1996) / int_8a603e40</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_8a603e40'>Film: Jack (1996) / int_8a603e40</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996'>Film: Jack (1996)</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Jack1996/int_8a603e40'>Film: Jack (1996) / int_8a603e40</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_a731ce16' href='http://dbtropes.org/resource/Film/Jack1996/int_a731ce16'>Film: Jack (1996) / int_a731ce16</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/ActorAllusion'>Actor Allusion</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_a731ce16'>Film: Jack (1996) / int_a731ce16</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Actor Allusion: Robin Williams has played an adult Peter Pan (aka the boy who never grew up) with a son named Jack.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_a731ce16'>Film: Jack (1996) / int_a731ce16</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_a731ce16'>Film: Jack (1996) / int_a731ce16</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996'>Film: Jack (1996)</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Jack1996/int_a731ce16'>Film: Jack (1996) / int_a731ce16</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_b8579bb1' href='http://dbtropes.org/resource/Film/Jack1996/int_b8579bb1'>Film: Jack (1996) / int_b8579bb1</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/CoolTeacher'>Cool Teacher</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_b8579bb1'>Film: Jack (1996) / int_b8579bb1</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Cool Teacher: Jack's tutor.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_b8579bb1'>Film: Jack (1996) / int_b8579bb1</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_b8579bb1'>Film: Jack (1996) / int_b8579bb1</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996'>Film: Jack (1996)</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Jack1996/int_b8579bb1'>Film: Jack (1996) / int_b8579bb1</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_bf1af286' href='http://dbtropes.org/resource/Film/Jack1996/int_bf1af286'>Film: Jack (1996) / int_bf1af286</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/NeverTrustATrailer'>Never Trust a Trailer</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_bf1af286'>Film: Jack (1996) / int_bf1af286</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Never Trust a Trailer: It was pretty much marketed as Big WITH ROBIN WILLIAMS!.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_bf1af286'>Film: Jack (1996) / int_bf1af286</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_bf1af286'>Film: Jack (1996) / int_bf1af286</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996'>Film: Jack (1996)</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Jack1996/int_bf1af286'>Film: Jack (1996) / int_bf1af286</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_c8b035c4' href='http://dbtropes.org/resource/Film/Jack1996/int_c8b035c4'>Film: Jack (1996) / int_c8b035c4</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/KiddieKid'>Kiddie Kid</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_c8b035c4'>Film: Jack (1996) / int_c8b035c4</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Kiddie Kid: Jack acts a few years younger than his age, probably due to his sheltered lifestyle. Zigzagged with his classmates. On one hand, they still believe in things like cooties. On the other hand, they enjoy looking at pornography.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_c8b035c4'>Film: Jack (1996) / int_c8b035c4</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_c8b035c4'>Film: Jack (1996) / int_c8b035c4</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996'>Film: Jack (1996)</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Jack1996/int_c8b035c4'>Film: Jack (1996) / int_c8b035c4</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_e21eca01' href='http://dbtropes.org/resource/Film/Jack1996/int_e21eca01'>Film: Jack (1996) / int_e21eca01</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/MoodWhiplash'>Mood Whiplash</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_e21eca01'>Film: Jack (1996) / int_e21eca01</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Mood Whiplash: Is both something of a fun kid-friendly comedy and an emotional drama.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_e21eca01'>Film: Jack (1996) / int_e21eca01</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_e21eca01'>Film: Jack (1996) / int_e21eca01</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996'>Film: Jack (1996)</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Jack1996/int_e21eca01'>Film: Jack (1996) / int_e21eca01</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_ea8e6a65' href='http://dbtropes.org/resource/Film/Jack1996/int_ea8e6a65'>Film: Jack (1996) / int_ea8e6a65</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/YoungerThanTheyLook'>Younger than They Look</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_ea8e6a65'>Film: Jack (1996) / int_ea8e6a65</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Younger than They Look</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_ea8e6a65'>Film: Jack (1996) / int_ea8e6a65</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_ea8e6a65'>Film: Jack (1996) / int_ea8e6a65</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996'>Film: Jack (1996)</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Jack1996/int_ea8e6a65'>Film: Jack (1996) / int_ea8e6a65</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_ee42a70' href='http://dbtropes.org/resource/Film/Jack1996/int_ee42a70'>Film: Jack (1996) / int_ee42a70</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/ShrinkingViolet'>Shrinking Violet</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_ee42a70'>Film: Jack (1996) / int_ee42a70</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Shrinking Violet: Jack, when he first goes to school.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_ee42a70'>Film: Jack (1996) / int_ee42a70</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_ee42a70'>Film: Jack (1996) / int_ee42a70</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996'>Film: Jack (1996)</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Jack1996/int_ee42a70'>Film: Jack (1996) / int_ee42a70</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_f36540e4' href='http://dbtropes.org/resource/Film/Jack1996/int_f36540e4'>Film: Jack (1996) / int_f36540e4</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/GoodParents'>Good Parents</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_f36540e4'>Film: Jack (1996) / int_f36540e4</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Good Parents: Given the situation and circumstances, Jack's parents are practically saints.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_f36540e4'>Film: Jack (1996) / int_f36540e4</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_f36540e4'>Film: Jack (1996) / int_f36540e4</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996'>Film: Jack (1996)</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Jack1996/int_f36540e4'>Film: Jack (1996) / int_f36540e4</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_f7a2b8bb' href='http://dbtropes.org/resource/Film/Jack1996/int_f7a2b8bb'>Film: Jack (1996) / int_f7a2b8bb</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/PrecociousCrush'>Precocious Crush</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_f7a2b8bb'>Film: Jack (1996) / int_f7a2b8bb</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Precocious Crush: Jack doesn't realize that he is too young for her, and after his heart is broken, he has a heart attack.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_f7a2b8bb'>Film: Jack (1996) / int_f7a2b8bb</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_f7a2b8bb'>Film: Jack (1996) / int_f7a2b8bb</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996'>Film: Jack (1996)</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Jack1996/int_f7a2b8bb'>Film: Jack (1996) / int_f7a2b8bb</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_f7aff7fb' href='http://dbtropes.org/resource/Film/Jack1996/int_f7aff7fb'>Film: Jack (1996) / int_f7aff7fb</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/BarBrawl'>Bar Brawl</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_f7aff7fb'>Film: Jack (1996) / int_f7aff7fb</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Bar Brawl: Jack is mistaken for an adult, and gets into a fight.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_f7aff7fb'>Film: Jack (1996) / int_f7aff7fb</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_f7aff7fb'>Film: Jack (1996) / int_f7aff7fb</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996'>Film: Jack (1996)</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Jack1996/int_f7aff7fb'>Film: Jack (1996) / int_f7aff7fb</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_name' href='http://dbtropes.org/resource/Film/Jack1996/int_name'>Film: Jack (1996) / int_name</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://skipforward.net/skipforward/resource/seeder/skipinions/ItemName'>ItemName</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_name'>Film: Jack (1996) / int_name</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i></i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_name'>Film: Jack (1996) / int_name</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_name'>Film: Jack (1996) / int_name</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996'>Film: Jack (1996)</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Jack1996/int_name'>Film: Jack (1996) / int_name</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996/int_name'>Film: Jack (1996) / int_name</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/itemName'>itemName</div></td>
+<td><i>Film: Jack (1996)</i></td>
+</tr>
+
+
+</table><p><a name="ref_feature_instances">The following is a list of statements referring to the current page from other pages.</a></p><table><tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack'>Film: Jack</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#seeAlso'>seeAlso</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Jack1996'>Film: Jack (1996)</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack2013'>Film: Jack 2013</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#seeAlso'>seeAlso</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Jack1996'>Film: Jack (1996)</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996'>Film: Jack (1996)</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/AwardBaitSong/int_a1a0ebe1'>Award Bait Song / int_a1a0ebe1</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996'>Film: Jack (1996)</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/BeardOfSorrow/int_a1a0ebe1'>Beard of Sorrow / int_a1a0ebe1</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996'>Film: Jack (1996)</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/CharacterTitle/int_a1a0ebe1'>Character Title / int_a1a0ebe1</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996'>Film: Jack (1996)</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/PrecociousCrush/int_a1a0ebe1'>Precocious Crush / int_a1a0ebe1</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996'>Film: Jack (1996)</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/ProtagonistTitle/int_a1a0ebe1'>Protagonist Title / int_a1a0ebe1</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996'>Film: Jack (1996)</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/RapidAging/int_a1a0ebe1'>Rapid Aging / int_a1a0ebe1</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996'>Film: Jack (1996)</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/SignificantBirthDate/int_a1a0ebe1'>Significant Birth Date / int_a1a0ebe1</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996'>Film: Jack (1996)</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/TheLastStraw/int_a1a0ebe1'>The Last Straw / int_a1a0ebe1</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Main/YoungerThanTheyLook'>Younger than They Look</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#seeAlso'>seeAlso</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Jack1996'>Film: Jack (1996)</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Jack1996'>Film: Jack (1996)</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/YoungerThanTheyLook/int_a1a0ebe1'>Younger than They Look / int_a1a0ebe1</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Music/MichaelKamen'>Music: Michael Kamen</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#seeAlso'>seeAlso</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Jack1996'>Film: Jack (1996)</a></td>
+</tr>
+
+
+</table><hr/><div id="copyright">Copyright of DBTropes.org wrapper 2009-2013 <a href="http://www.dfki.de/km">DFKI Knowledge Management</a>. <a href="http://www.dfki.de/web/forschung/km/legal-info-en">Imprint</a>.<br/>Copyright of data <a href="http://tvtropes.org/">TVTropes.org</a> contributors under <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-Share Alike 3.0 Unported License</a>.</div></div>
+</body>
+</html>

@@ -1,0 +1,1395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noindex, nofollow" />
+<!-- Original TVTropes.org is authoritative, let's be nice and not pollute normal HTML search engines. -->
+<link rel="stylesheet" href="/static/main.css" type="text/css" />
+<title>Film: Memento - DBTropes</title>
+</head>
+<body>
+<div id="main">
+<div style="float: right; margin: 0 20px 0 0;"><a href="/info">Search/Recent Changes</a></div>
+<a href="http://dbtropes.org/">
+<img style="border:0px" alt="DBTropes" title="DBTropes" src="/static/logo.png" /></a><br/><i>...it's like <a href="http://tvtropes.org/">TV Tropes</a>, but <a href="http://linkeddata.org/">LINKED DATA</a>!</i>
+<p/>
+
+<h1>Film: Memento</h1>
+
+<ul>
+<li>137 statements</li>
+<li>25 <a href="#feature_instances">feature instances</a></li>
+<li>91 <a href="#ref_feature_instances">referencing feature instances</a></li>
+</ul>
+
+<table><tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/ont/TVTItem'>TVTItem</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#label'>label</div></td>
+<td><i>Film: Memento</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://xmlns.com/foaf/0.1/page'>page</div></td>
+<td><a href='http://tvtropes.org/pmwiki/pmwiki.php/Film/Memento'>Memento</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Memento is a 2000 Psychological Thriller film written and directed by Christopher Nolan, considered by many fans to be one of his masterpieces.Lenny (Guy Pearce) has a problem. During a robbery in which his wife (Jorja Fox) is killed, he suffers a blow to the head which gives him anterograde amnesia: His brain is unable to record new memories. He can remember the last five to fifteen minutes, and he can remember his life from before the injury, but everything in between is gone. Now his only goal is to track down his wife's killer.To find John G, and to simply function from day to day, Lenny employs a variety of reminders and notes to himself, like Polaroids and tattoos. Of course, this isn't a perfect world, and in the hunt for John G, he comes across some who would take advantage of his condition...The majority of the movie is shown in backwards chronological order, using distinctive anchor points that allows you to follow each scene. A sub plot is chronological with Lenny in a hotel room shown in black-and-white. This creates a mood matching Leonard's condition, ending in the chronological middle of the narrative.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://dbtropes.org/ont/fetched'>fetched</div></td>
+<td><i>2014-05-06T23:43:08Z</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://dbtropes.org/ont/parsed'>parsed</div></td>
+<td><i>2014-09-23T04:49:09Z</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://dbtropes.org/ont/processingCategory1'>processingCategory1</div></td>
+<td><a href='http://dbtropes.org/resource/Main/FilmNoir'>Film Noir</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://dbtropes.org/ont/processingCategory1'>processingCategory1</div></td>
+<td><a href='http://dbtropes.org/resource/Main/FilmsOf20002004'>Films of 2000-2004</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://dbtropes.org/ont/processingCategory1'>processingCategory1</div></td>
+<td><a href='http://dbtropes.org/resource/Main/PsychologicalThriller'>Psychological Thriller</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://purl.org/dc/terms/isPartOf'>isPartOf</div></td>
+<td><a href='http://dbtropes.org/ont/DBTropes'>DBTropes</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#seeAlso'>seeAlso</div></td>
+<td><a href='http://dbtropes.org/resource/Main/PsychologicalThriller'>Psychological Thriller</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_18815207' href='http://dbtropes.org/resource/Film/Memento/int_18815207'>Film: Memento / int_18815207</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/AllThereInTheManual'>All There in the Manual</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_18815207'>Film: Memento / int_18815207</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>All There in the Manual: Much of the backstory is only explained through the movie's promotional website, including Leonard sending himself messages to convince himself that there was a second burglar who murdered his wife, prompting his eventual escape from the institution he was in.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_18815207'>Film: Memento / int_18815207</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_18815207'>Film: Memento / int_18815207</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Memento/int_18815207'>Film: Memento / int_18815207</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_19629f93' href='http://dbtropes.org/resource/Film/Memento/int_19629f93'>Film: Memento / int_19629f93</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/DeliberatelyMonochrome'>Deliberately Monochrome</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_19629f93'>Film: Memento / int_19629f93</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Deliberately Monochrome: One thread of the movie is monochrome and the other is in color. The trope is played with very well when the plot threads' meeting point coincides with a developing Polaroid photo.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_19629f93'>Film: Memento / int_19629f93</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_19629f93'>Film: Memento / int_19629f93</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Memento/int_19629f93'>Film: Memento / int_19629f93</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_286d6cc1' href='http://dbtropes.org/resource/Film/Memento/int_286d6cc1'>Film: Memento / int_286d6cc1</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/WhatDidIDoLastNight'>What Did I Do Last Night?</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_286d6cc1'>Film: Memento / int_286d6cc1</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>What Did I Do Last Night?</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_286d6cc1'>Film: Memento / int_286d6cc1</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_286d6cc1'>Film: Memento / int_286d6cc1</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Memento/int_286d6cc1'>Film: Memento / int_286d6cc1</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_338134a1' href='http://dbtropes.org/resource/Film/Memento/int_338134a1'>Film: Memento / int_338134a1</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/NoteToSelf'>Note to Self</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_338134a1'>Film: Memento / int_338134a1</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Note to Self / Memory Gambit: Pretty much Leonard's only way of functioning from day to day.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_338134a1'>Film: Memento / int_338134a1</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_338134a1'>Film: Memento / int_338134a1</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Memento/int_338134a1'>Film: Memento / int_338134a1</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_367739f6' href='http://dbtropes.org/resource/Film/Memento/int_367739f6'>Film: Memento / int_367739f6</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/FilmNoir'>Film Noir</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_367739f6'>Film: Memento / int_367739f6</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Film Noir</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_367739f6'>Film: Memento / int_367739f6</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_367739f6'>Film: Memento / int_367739f6</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Memento/int_367739f6'>Film: Memento / int_367739f6</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_42bc7966' href='http://dbtropes.org/resource/Film/Memento/int_42bc7966'>Film: Memento / int_42bc7966</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/TheEndingChangesEverything'>The Ending Changes Everything</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_42bc7966'>Film: Memento / int_42bc7966</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>The Ending Changes Everything: Characters are always lying to Lenny and the big reveal at the end ( Lenny has killed multiple people by the name of John G. and he confused his own story with that of Sammy Jankis) is left vague on whether or not it is the truth or just a time stalling story.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_42bc7966'>Film: Memento / int_42bc7966</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_42bc7966'>Film: Memento / int_42bc7966</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Memento/int_42bc7966'>Film: Memento / int_42bc7966</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_44a4ab93' href='http://dbtropes.org/resource/Film/Memento/int_44a4ab93'>Film: Memento / int_44a4ab93</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/EasterEgg'>Easter Egg</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_44a4ab93'>Film: Memento / int_44a4ab93</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Easter Egg: The DVD is full of them, including one that even lets you watch the film in chronological order.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_44a4ab93'>Film: Memento / int_44a4ab93</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_44a4ab93'>Film: Memento / int_44a4ab93</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Memento/int_44a4ab93'>Film: Memento / int_44a4ab93</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_5f49b3e0' href='http://dbtropes.org/resource/Film/Memento/int_5f49b3e0'>Film: Memento / int_5f49b3e0</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/PlatonicProstitution'>Platonic Prostitution</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_5f49b3e0'>Film: Memento / int_5f49b3e0</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Platonic Prostitution</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_5f49b3e0'>Film: Memento / int_5f49b3e0</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_5f49b3e0'>Film: Memento / int_5f49b3e0</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Memento/int_5f49b3e0'>Film: Memento / int_5f49b3e0</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_6e289db8' href='http://dbtropes.org/resource/Film/Memento/int_6e289db8'>Film: Memento / int_6e289db8</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/OntologicalMystery'>Ontological Mystery</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_6e289db8'>Film: Memento / int_6e289db8</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Ontological Mystery</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_6e289db8'>Film: Memento / int_6e289db8</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_6e289db8'>Film: Memento / int_6e289db8</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Memento/int_6e289db8'>Film: Memento / int_6e289db8</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_7084c0af' href='http://dbtropes.org/resource/Film/Memento/int_7084c0af'>Film: Memento / int_7084c0af</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/TheBigBoard'>The Big Board</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_7084c0af'>Film: Memento / int_7084c0af</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>The Big Board: Lenny sets one up in his motel room, highlighting important people and places.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_7084c0af'>Film: Memento / int_7084c0af</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_7084c0af'>Film: Memento / int_7084c0af</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Memento/int_7084c0af'>Film: Memento / int_7084c0af</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_7bf340df' href='http://dbtropes.org/resource/Film/Memento/int_7bf340df'>Film: Memento / int_7bf340df</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/BackToFront'>Back to Front</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_7bf340df'>Film: Memento / int_7bf340df</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Back to Front: The majority of the film is shown in reverse order. These scenes alternate with shorter scenes arranged chronologically. The two plot threads meet at the end of the film (which is the chronological middle of the story).</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_7bf340df'>Film: Memento / int_7bf340df</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_7bf340df'>Film: Memento / int_7bf340df</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Memento/int_7bf340df'>Film: Memento / int_7bf340df</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_877fba65' href='http://dbtropes.org/resource/Film/Memento/int_877fba65'>Film: Memento / int_877fba65</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/BestServedCold'>Best Served Cold</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_877fba65'>Film: Memento / int_877fba65</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Best Served Cold: Lenny's only motivation is to kill the man who murdered his wife. Assuming she was even murdered by the man, and not killed by Leonard giving her too many insulin injections.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_877fba65'>Film: Memento / int_877fba65</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_877fba65'>Film: Memento / int_877fba65</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Memento/int_877fba65'>Film: Memento / int_877fba65</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_8b98727e' href='http://dbtropes.org/resource/Film/Memento/int_8b98727e'>Film: Memento / int_8b98727e</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/DownerEnding'>Downer Ending</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_8b98727e'>Film: Memento / int_8b98727e</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Downer &quot;Ending&quot;:  At the end of the movie, you discover that Leonard is basically a Serial Killer, even if he doesn't remember any of his previous kills. Which is sad. But it's even sadder when you realize that at the end (which is the beginning of the movie) he killed the only person who had him in check. And because he doesn't remember a thing, he will continue to seek revenge, killing we don't know how many people in the process. Revenge for nothing, of course, since his wife didn't die in the attack at all, but was accidentally killed by Leonard, in the way he believes Sammy's wife died. Damn.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_8b98727e'>Film: Memento / int_8b98727e</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_8b98727e'>Film: Memento / int_8b98727e</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Memento/int_8b98727e'>Film: Memento / int_8b98727e</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_8cdf319d' href='http://dbtropes.org/resource/Film/Memento/int_8cdf319d'>Film: Memento / int_8cdf319d</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/LaserGuidedAmnesia'>Laser-Guided Amnesia</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_8cdf319d'>Film: Memento / int_8cdf319d</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Laser-Guided Amnesia: AVERTED!!! In fact, one of the few films that treats amnesia anywhere near realistically.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_8cdf319d'>Film: Memento / int_8cdf319d</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>-1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_8cdf319d'>Film: Memento / int_8cdf319d</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Memento/int_8cdf319d'>Film: Memento / int_8cdf319d</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_a3ecd569' href='http://dbtropes.org/resource/Film/Memento/int_a3ecd569'>Film: Memento / int_a3ecd569</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/ItsAllJunk'>It's All Junk</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_a3ecd569'>Film: Memento / int_a3ecd569</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>It's All Junk: Lenny tosses several of his wife's belongings into a fire.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_a3ecd569'>Film: Memento / int_a3ecd569</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_a3ecd569'>Film: Memento / int_a3ecd569</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Memento/int_a3ecd569'>Film: Memento / int_a3ecd569</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_a9e10b04' href='http://dbtropes.org/resource/Film/Memento/int_a9e10b04'>Film: Memento / int_a9e10b04</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/CountryMatters'>Country Matters</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_a9e10b04'>Film: Memento / int_a9e10b04</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Country Matters: That's how Natalie finally gets Leonard to snap and punch her.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_a9e10b04'>Film: Memento / int_a9e10b04</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_a9e10b04'>Film: Memento / int_a9e10b04</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Memento/int_a9e10b04'>Film: Memento / int_a9e10b04</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_af17565c' href='http://dbtropes.org/resource/Film/Memento/int_af17565c'>Film: Memento / int_af17565c</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/BurnBabyBurn'>Burn Baby Burn</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_af17565c'>Film: Memento / int_af17565c</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Burn Baby Burn: Lenny disposes of several of his late wife's belongings this way.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_af17565c'>Film: Memento / int_af17565c</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_af17565c'>Film: Memento / int_af17565c</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Memento/int_af17565c'>Film: Memento / int_af17565c</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_bb96c451' href='http://dbtropes.org/resource/Film/Memento/int_bb96c451'>Film: Memento / int_bb96c451</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/FreezeFrameBonus'>Freeze-Frame Bonus</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_bb96c451'>Film: Memento / int_bb96c451</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Freeze-Frame Bonus:  while Lenny is narrating the story of Sammy Jankis, a shot of Sammy sitting in a nursing home briefly changes to a shot of Lenny in the exact same spot and clothing</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_bb96c451'>Film: Memento / int_bb96c451</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_bb96c451'>Film: Memento / int_bb96c451</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Memento/int_bb96c451'>Film: Memento / int_bb96c451</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_bd98c3b4' href='http://dbtropes.org/resource/Film/Memento/int_bd98c3b4'>Film: Memento / int_bd98c3b4</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/UnreliableNarrator'>Unreliable Narrator</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_bd98c3b4'>Film: Memento / int_bd98c3b4</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Unreliable Narrator</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_bd98c3b4'>Film: Memento / int_bd98c3b4</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_bd98c3b4'>Film: Memento / int_bd98c3b4</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Memento/int_bd98c3b4'>Film: Memento / int_bd98c3b4</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_c850d8c3' href='http://dbtropes.org/resource/Film/Memento/int_c850d8c3'>Film: Memento / int_c850d8c3</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/AbsenceOfEvidence'>Absence of Evidence</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_c850d8c3'>Film: Memento / int_c850d8c3</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Absence of Evidence: Leonard destroyed several documents, before the beginning of the film, which indicated that his wife's attacker had already been found and brought to justice. Furthermore, after Teddy shows him the photo he took of Leonard once the deed was done, he burns both it, AND the new photo he just took of the killed &quot;John G.&quot;, to continue to delude himself into thinking his wife's killer was still at large.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_c850d8c3'>Film: Memento / int_c850d8c3</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_c850d8c3'>Film: Memento / int_c850d8c3</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Memento/int_c850d8c3'>Film: Memento / int_c850d8c3</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_d25e771b' href='http://dbtropes.org/resource/Film/Memento/int_d25e771b'>Film: Memento / int_d25e771b</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/DynamicEntry'>Dynamic Entry</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_d25e771b'>Film: Memento / int_d25e771b</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Dynamic Entry: Subverted in one of the only funny moments in the movie.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_d25e771b'>Film: Memento / int_d25e771b</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>-0.3</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_d25e771b'>Film: Memento / int_d25e771b</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Memento/int_d25e771b'>Film: Memento / int_d25e771b</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_e0f79982' href='http://dbtropes.org/resource/Film/Memento/int_e0f79982'>Film: Memento / int_e0f79982</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/ForegoneConclusion'>Foregone Conclusion</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_e0f79982'>Film: Memento / int_e0f79982</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Foregone Conclusion: &quot;Teddy&quot;, AKA &quot;John G&quot; gets shot.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_e0f79982'>Film: Memento / int_e0f79982</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_e0f79982'>Film: Memento / int_e0f79982</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Memento/int_e0f79982'>Film: Memento / int_e0f79982</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_e14c5b97' href='http://dbtropes.org/resource/Film/Memento/int_e14c5b97'>Film: Memento / int_e14c5b97</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/UnwittingPawn'>Unwitting Pawn</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_e14c5b97'>Film: Memento / int_e14c5b97</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Unwitting Pawn: Natalie and Teddy just love using the protagonist's short-term memory in order to manipulate him and at the end,  or rather, the middle, we learn that he actually manipulated &quot;himself&quot; into shooting Teddy by leaving indications that he was John G.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_e14c5b97'>Film: Memento / int_e14c5b97</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_e14c5b97'>Film: Memento / int_e14c5b97</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Memento/int_e14c5b97'>Film: Memento / int_e14c5b97</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_f6ed815d' href='http://dbtropes.org/resource/Film/Memento/int_f6ed815d'>Film: Memento / int_f6ed815d</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/LivingLieDetector'>Living Lie Detector</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_f6ed815d'>Film: Memento / int_f6ed815d</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Living Lie Detector: Leonard learned to do this before his injury as an insurance claims investigator. As such, it is extremely difficult to deceive him in a face to face conversation.  Or so he believes.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_f6ed815d'>Film: Memento / int_f6ed815d</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_f6ed815d'>Film: Memento / int_f6ed815d</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Memento/int_f6ed815d'>Film: Memento / int_f6ed815d</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_name' href='http://dbtropes.org/resource/Film/Memento/int_name'>Film: Memento / int_name</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://skipforward.net/skipforward/resource/seeder/skipinions/ItemName'>ItemName</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_name'>Film: Memento / int_name</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i></i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_name'>Film: Memento / int_name</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_name'>Film: Memento / int_name</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Memento/int_name'>Film: Memento / int_name</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento/int_name'>Film: Memento / int_name</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/itemName'>itemName</div></td>
+<td><i>Film: Memento</i></td>
+</tr>
+
+
+</table><p><a name="ref_feature_instances">The following is a list of statements referring to the current page from other pages.</a></p><table><tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Irreversible'>Film: Irreversible</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#seeAlso'>seeAlso</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/LostHighway'>Film: Lost Highway</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#seeAlso'>seeAlso</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Ravenous'>Film: Ravenous</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#seeAlso'>seeAlso</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/AbsenceOfEvidence/int_61ea45c'>Absence of Evidence / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/AccidentalKidnapping/int_61ea45c'>Accidental Kidnapping / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/AdaptationFirst/int_61ea45c'>This entry is trivia, which is cool and all, but not a trope. On a work, it goes on the Trivia tab. Adaptation First / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/AmnesiaDanger/int_61ea45c'>Amnesia Danger / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Main/AmnesiaLoop'>Amnesia Loop</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#seeAlso'>seeAlso</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/AmnesiaLoop/int_61ea45c'>Amnesia Loop / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/AmnesiacResonance/int_61ea45c'>Amnesiac Resonance / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/AnachronicOrder/int_61ea45c'>Anachronic Order / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/ArtificialBrilliance/int_61ea45c'>Artificial Brilliance / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/BackToFront/int_61ea45c'>Back to Front / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/BestServedCold/int_61ea45c'>Best Served Cold / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/BreakthroughHit/int_61ea45c'>This entry is trivia, which is cool and all, but not a trope. On a work, it goes on the Trivia tab. Breakthrough Hit / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/BurnBabyBurn/int_61ea45c'>Burn Baby Burn / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/CouldntFindAPen/int_61ea45c'>Couldn't Find a Pen / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/CountryMatters/int_61ea45c'>Country Matters / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/CriminalAmnesiac/int_61ea45c'>Criminal Amnesiac / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/DeliberatelyMonochrome/int_61ea45c'>Deliberately Monochrome / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/DownerBeginning/int_61ea45c'>Downer Beginning / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/DynamicEntry/int_61ea45c'>Dynamic Entry / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/EasterEgg/int_61ea45c'>Easter Egg / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Main/EasyAmnesia'>Easy Amnesia</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#seeAlso'>seeAlso</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/ExpoLabel/int_61ea45c'>Expo Label / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Main/FabulaAndSujet'>Fabula and Sujet</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#seeAlso'>seeAlso</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/FakeMemories/int_61ea45c'>Fake Memories / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/FakeNationality/int_61ea45c'>This entry is trivia, which is cool and all, but not a trope. On a work, it goes on the Trivia tab. Fake Nationality / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/FilmNoir/int_61ea45c'>Film Noir / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/ForegoneConclusion/int_61ea45c'>Foregone Conclusion / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/Futureshadowing/int_61ea45c'>Futureshadowing / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/GivenNameReveal/int_61ea45c'>Given Name Reveal / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/HarassingPhoneCall/int_61ea45c'>Harassing Phone Call / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/HeyItsThatGuy/int_61ea45c'>This entry is trivia, which is cool and all, but not a trope. On a work, it goes on the Trivia tab. Hey, It's That Guy! / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/HowWeGotHere/int_61ea45c'>How We Got Here / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Main/HumanNotepad'>Human Notepad</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#seeAlso'>seeAlso</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/HumanNotepad/int_61ea45c'>Human Notepad / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/InMediasRes/int_61ea45c'>In Medias Res / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/InvulnerableKnuckles/int_61ea45c'>Invulnerable Knuckles / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/IrrevocableMessage/int_61ea45c'>Irrevocable Message / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/LimitedSpecialCollectorsUltimateEdition/int_61ea45c'>Limited Special Collector's Ultimate Edition / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/LivingLieDetector/int_61ea45c'>Living Lie Detector / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/Mangst/int_61ea45c'>Mangst / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/MarketBasedTitle/int_61ea45c'>Market-Based Title / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/MemoryGambit/int_61ea45c'>Memory Gambit / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/MetaCasting/int_61ea45c'>Meta Casting / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/MindScrewdriver/int_61ea45c'>Mind Screwdriver / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/MysteriousNote/int_61ea45c'>Mysterious Note / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/Neighbours/int_61ea45c'>Neighbours / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/NoteToSelf/int_61ea45c'>Note to Self / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/OnceMoreWithClarity/int_61ea45c'>Once More with Clarity / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/PaintingTheMedium/int_61ea45c'>Painting the Medium / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/PlatonicProstitution/int_61ea45c'>Platonic Prostitution / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/PlotHole/int_61ea45c'>Plot Hole / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/PosthumousCharacter/int_61ea45c'>Posthumous Character / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/PsychologicalThriller/int_61ea45c'>Psychological Thriller / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/QuestForIdentity/int_61ea45c'>Quest for Identity / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/RealIsBrown/int_61ea45c'>Real Is Brown / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/RewatchBonus/int_61ea45c'>Rewatch Bonus / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Main/RiffTraxMovies'>Riff Trax Movies</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#seeAlso'>seeAlso</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/RoomFullOfCrazy/int_61ea45c'>Room Full of Crazy / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/SequencingDeception/int_61ea45c'>Sequencing Deception / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/ShrugOfGod/int_61ea45c'>This entry is trivia, which is cool and all, but not a trope. On a work, it goes on the Trivia tab. Shrug of God / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/SixIsNine/int_61ea45c'>Six Is Nine / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/SkeletonKeyCard/int_61ea45c'>Skeleton Key Card / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/SorryBillyButYouJustDontHaveLegs/int_61ea45c'>Sorry Billy, But You Just Don't Have Legs / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/SpeechCentricWork/int_61ea45c'>Speech-Centric Work / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/SpellMyNameWithABlank/int_61ea45c'>Spell My Name with a Blank / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Main/StephenTobolowsky'>Stephen Tobolowsky</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#seeAlso'>seeAlso</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/StoryboardBody/int_61ea45c'>Storyboard Body / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/SubliminalSeduction/int_61ea45c'>Subliminal Seduction / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Main/TelevisuallyTransmittedDisease'>Televisually Transmitted Disease</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#seeAlso'>seeAlso</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/TheBigBoard/int_61ea45c'>The Big Board / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/TheCallHasBadReception/int_61ea45c'>The Call Has Bad Reception / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/TheEndingChangesEverything/int_61ea45c'>The Ending Changes Everything / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/TheKillerInMe/int_61ea45c'>The Killer In Me / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Main/TheLostLenore'>The Lost Lenore</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#seeAlso'>seeAlso</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/TheLostLenore/int_61ea45c'>The Lost Lenore / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/TheReveal/int_61ea45c'>The Reveal / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/TheyDiedBecauseOfYou/int_61ea45c'>They Died Because of You / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/TreacherousAdvisor/int_61ea45c'>Treacherous Advisor / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/VictoryGuidedAmnesia/int_61ea45c'>Victory Guided Amnesia / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/VillainsNeverLie/int_61ea45c'>Villains Never Lie / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/WhatDidIDoLastNight/int_61ea45c'>What Did I Do Last Night? / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/WhatYouAreInTheDark/int_61ea45c'>What You Are in the Dark / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/WoundedGazelleGambit/int_61ea45c'>Wounded Gazelle Gambit / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/YouWakeUpInARoom/int_61ea45c'>You Wake Up in a Room / int_61ea45c</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Music/DavidJulyan'>Music: David Julyan</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#seeAlso'>seeAlso</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Series/PersonOfInterest'>Series: Person of Interest</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#seeAlso'>seeAlso</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/VideoGame/GeminiRue'>Video Game: Gemini Rue</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#seeAlso'>seeAlso</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/VideoGame/PlanescapeTorment'>Video Game: Planescape: Torment</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#seeAlso'>seeAlso</div></td>
+<td><a href='http://dbtropes.org/resource/Film/Memento'>Film: Memento</a></td>
+</tr>
+
+
+</table><hr/><div id="copyright">Copyright of DBTropes.org wrapper 2009-2013 <a href="http://www.dfki.de/km">DFKI Knowledge Management</a>. <a href="http://www.dfki.de/web/forschung/km/legal-info-en">Imprint</a>.<br/>Copyright of data <a href="http://tvtropes.org/">TVTropes.org</a> contributors under <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-Share Alike 3.0 Unported License</a>.</div></div>
+</body>
+</html>

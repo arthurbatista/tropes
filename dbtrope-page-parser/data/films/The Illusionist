@@ -1,0 +1,1401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noindex, nofollow" />
+<!-- Original TVTropes.org is authoritative, let's be nice and not pollute normal HTML search engines. -->
+<link rel="stylesheet" href="/static/main.css" type="text/css" />
+<title>Film: The Illusionist - DBTropes</title>
+</head>
+<body>
+<div id="main">
+<div style="float: right; margin: 0 20px 0 0;"><a href="/info">Search/Recent Changes</a></div>
+<a href="http://dbtropes.org/">
+<img style="border:0px" alt="DBTropes" title="DBTropes" src="/static/logo.png" /></a><br/><i>...it's like <a href="http://tvtropes.org/">TV Tropes</a>, but <a href="http://linkeddata.org/">LINKED DATA</a>!</i>
+<p/>
+
+<h1>Film: The Illusionist</h1>
+
+<ul>
+<li>209 statements</li>
+<li>39 <a href="#feature_instances">feature instances</a></li>
+<li>20 <a href="#ref_feature_instances">referencing feature instances</a></li>
+</ul>
+
+<table><tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/ont/TVTItem'>TVTItem</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#label'>label</div></td>
+<td><i>Film: The Illusionist</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://xmlns.com/foaf/0.1/page'>page</div></td>
+<td><a href='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheIllusionist'>TheIllusionist</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>A 2006 Period Drama loosely based on Steven Millhauser's story &quot;Eisenheim the Illusionist&quot;.The Illusionist tells the story of Eisenheim, a magician in Vienna in the late 1800's and the childhood promise he made to a girl that someday, they would both disappear. The film begins near its climax and most of the film takes place in a Flash Back.No relation to the 2010 animated film.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://dbtropes.org/ont/fetched'>fetched</div></td>
+<td><i>2013-08-22T19:14:21Z</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://dbtropes.org/ont/parsed'>parsed</div></td>
+<td><i>2014-09-23T05:12:00Z</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://dbtropes.org/ont/processingCategory1'>processingCategory1</div></td>
+<td><a href='http://dbtropes.org/resource/Main/FilmsOf2005-2009'>Films of 2005-2009</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://dbtropes.org/ont/processingComment'>processingComment</div></td>
+<td><i>Dropped link to DuelingMovies: Not a Feature - ITEM</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://dbtropes.org/ont/processingComment'>processingComment</div></td>
+<td><i>Dropped link to EastEnders: Not a Feature - ITEM</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://purl.org/dc/terms/isPartOf'>isPartOf</div></td>
+<td><a href='http://dbtropes.org/ont/DBTropes'>DBTropes</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#seeAlso'>seeAlso</div></td>
+<td><a href='http://dbtropes.org/resource/Main/Flashback'>Flashback</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#seeAlso'>seeAlso</div></td>
+<td><a href='http://dbtropes.org/resource/Main/PeriodDrama'>PeriodDrama</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#seeAlso'>seeAlso</div></td>
+<td><a href='http://dbtropes.org/resource/WesternAnimation/TheIllusionist'>Western Animation: The Illusionist</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_14aa3a9f' href='http://dbtropes.org/resource/Film/TheIllusionist/int_14aa3a9f'>Film: The Illusionist / int_14aa3a9f</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/MaybeMagicMaybeMundane'>Maybe Magic, Maybe Mundane</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_14aa3a9f'>Film: The Illusionist / int_14aa3a9f</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Maybe Magic, Maybe Mundane: Until The Reveal, it is deliberately ambiguous whether Eisenheim does tricks or really has powers.  It turns out that he really does tricks.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_14aa3a9f'>Film: The Illusionist / int_14aa3a9f</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_14aa3a9f'>Film: The Illusionist / int_14aa3a9f</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheIllusionist/int_14aa3a9f'>Film: The Illusionist / int_14aa3a9f</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_155c2817' href='http://dbtropes.org/resource/Film/TheIllusionist/int_155c2817'>Film: The Illusionist / int_155c2817</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/InspectorJavert'>Inspector Javert</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_155c2817'>Film: The Illusionist / int_155c2817</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Inspector Javert: Inspector Uhl is a cross between this and an Obstructive Bureaucrat. This at least appears to be the case. In the end, he's revealed as one of the few truly moral characters in the film.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_155c2817'>Film: The Illusionist / int_155c2817</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_155c2817'>Film: The Illusionist / int_155c2817</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheIllusionist/int_155c2817'>Film: The Illusionist / int_155c2817</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_2350072b' href='http://dbtropes.org/resource/Film/TheIllusionist/int_2350072b'>Film: The Illusionist / int_2350072b</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/CassandraTruth'>Cassandra Truth</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_2350072b'>Film: The Illusionist / int_2350072b</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Cassandra Truth:  &quot;He's planted everything!&quot; &quot;You're drunk.&quot;</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_2350072b'>Film: The Illusionist / int_2350072b</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_2350072b'>Film: The Illusionist / int_2350072b</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheIllusionist/int_2350072b'>Film: The Illusionist / int_2350072b</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_23fa0c44' href='http://dbtropes.org/resource/Film/TheIllusionist/int_23fa0c44'>Film: The Illusionist / int_23fa0c44</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/AdaptationExpansion'>Adaptation Expansion</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_23fa0c44'>Film: The Illusionist / int_23fa0c44</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Adaptation Expansion: Heck yes.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_23fa0c44'>Film: The Illusionist / int_23fa0c44</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_23fa0c44'>Film: The Illusionist / int_23fa0c44</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheIllusionist/int_23fa0c44'>Film: The Illusionist / int_23fa0c44</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_23ff150b' href='http://dbtropes.org/resource/Film/TheIllusionist/int_23ff150b'>Film: The Illusionist / int_23ff150b</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/UtopiaJustifiesTheMeans'>Utopia Justifies the Means</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_23ff150b'>Film: The Illusionist / int_23ff150b</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Utopia Justifies the Means: The son plans to overthrow his father because he thinks the &quot;old man&quot; can't properly lead the Empire into the future.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_23ff150b'>Film: The Illusionist / int_23ff150b</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_23ff150b'>Film: The Illusionist / int_23ff150b</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheIllusionist/int_23ff150b'>Film: The Illusionist / int_23ff150b</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_307b92f1' href='http://dbtropes.org/resource/Film/TheIllusionist/int_307b92f1'>Film: The Illusionist / int_307b92f1</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/ChekhovsGunman'>Chekhov's Gunman</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_307b92f1'>Film: The Illusionist / int_307b92f1</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Chekhov's Gunman: The man seen with Eisenheim at the train station.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_307b92f1'>Film: The Illusionist / int_307b92f1</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_307b92f1'>Film: The Illusionist / int_307b92f1</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheIllusionist/int_307b92f1'>Film: The Illusionist / int_307b92f1</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_37f0fcfc' href='http://dbtropes.org/resource/Film/TheIllusionist/int_37f0fcfc'>Film: The Illusionist / int_37f0fcfc</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/MurderTheHypotenuse'>Murder the Hypotenuse</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_37f0fcfc'>Film: The Illusionist / int_37f0fcfc</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Murder the Hypotenuse: In the most convoluted way possible.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_37f0fcfc'>Film: The Illusionist / int_37f0fcfc</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_37f0fcfc'>Film: The Illusionist / int_37f0fcfc</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheIllusionist/int_37f0fcfc'>Film: The Illusionist / int_37f0fcfc</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_4189a662' href='http://dbtropes.org/resource/Film/TheIllusionist/int_4189a662'>Film: The Illusionist / int_4189a662</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/PetTheDog'>Pet the Dog</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_4189a662'>Film: The Illusionist / int_4189a662</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Pet the Dog: Eisenheim, after his first successful show, playfully and quietly giving a windfall of coins to a few urchins.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_4189a662'>Film: The Illusionist / int_4189a662</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_4189a662'>Film: The Illusionist / int_4189a662</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheIllusionist/int_4189a662'>Film: The Illusionist / int_4189a662</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_444ec7e8' href='http://dbtropes.org/resource/Film/TheIllusionist/int_444ec7e8'>Film: The Illusionist / int_444ec7e8</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/GambitRoulette'>Gambit Roulette</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_444ec7e8'>Film: The Illusionist / int_444ec7e8</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Xanatos Roulette</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_444ec7e8'>Film: The Illusionist / int_444ec7e8</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_444ec7e8'>Film: The Illusionist / int_444ec7e8</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheIllusionist/int_444ec7e8'>Film: The Illusionist / int_444ec7e8</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_47e6bfff' href='http://dbtropes.org/resource/Film/TheIllusionist/int_47e6bfff'>Film: The Illusionist / int_47e6bfff</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/StageMagician'>Stage Magician</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_47e6bfff'>Film: The Illusionist / int_47e6bfff</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Stage Magician</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_47e6bfff'>Film: The Illusionist / int_47e6bfff</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_47e6bfff'>Film: The Illusionist / int_47e6bfff</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheIllusionist/int_47e6bfff'>Film: The Illusionist / int_47e6bfff</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_49413e25' href='http://dbtropes.org/resource/Film/TheIllusionist/int_49413e25'>Film: The Illusionist / int_49413e25</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/WhodunnitToMe'>Whodunnit to Me</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_49413e25'>Film: The Illusionist / int_49413e25</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Whodunnit To Me: Sophie's ghostly appearances at Eisenheim's shows seems to be trying to get the public to figure this one out.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_49413e25'>Film: The Illusionist / int_49413e25</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_49413e25'>Film: The Illusionist / int_49413e25</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheIllusionist/int_49413e25'>Film: The Illusionist / int_49413e25</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_56bbc9f0' href='http://dbtropes.org/resource/Film/TheIllusionist/int_56bbc9f0'>Film: The Illusionist / int_56bbc9f0</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/HeyItsThatGuy'>This entry is trivia, which is cool and all, but not a trope. On a work, it goes on the Trivia tab. Hey, It's That Guy!</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_56bbc9f0'>Film: The Illusionist / int_56bbc9f0</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Hey, It's That Guy!: John Adams is investigating the Narrator. Max Branning is a mook.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_56bbc9f0'>Film: The Illusionist / int_56bbc9f0</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_56bbc9f0'>Film: The Illusionist / int_56bbc9f0</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheIllusionist/int_56bbc9f0'>Film: The Illusionist / int_56bbc9f0</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_5e213a76' href='http://dbtropes.org/resource/Film/TheIllusionist/int_5e213a76'>Film: The Illusionist / int_5e213a76</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/MagiciansAreWizards'>Magicians Are Wizards</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_5e213a76'>Film: The Illusionist / int_5e213a76</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Magicians Are Wizards: While The Prestige justified its use of this trope, this film handwaves it.  Though methods existed for all his tricks, you just never learn about them without the DVD commentary.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_5e213a76'>Film: The Illusionist / int_5e213a76</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_5e213a76'>Film: The Illusionist / int_5e213a76</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheIllusionist/int_5e213a76'>Film: The Illusionist / int_5e213a76</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_61b626e3' href='http://dbtropes.org/resource/Film/TheIllusionist/int_61b626e3'>Film: The Illusionist / int_61b626e3</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/DeathGlare'>Death Glare</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_61b626e3'>Film: The Illusionist / int_61b626e3</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Death Glare: The prince is a master.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_61b626e3'>Film: The Illusionist / int_61b626e3</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_61b626e3'>Film: The Illusionist / int_61b626e3</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheIllusionist/int_61b626e3'>Film: The Illusionist / int_61b626e3</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_623df217' href='http://dbtropes.org/resource/Film/TheIllusionist/int_623df217'>Film: The Illusionist / int_623df217</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/WouldHitAGirl'>Would Hit a Girl</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_623df217'>Film: The Illusionist / int_623df217</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Would Hit a Girl: The prince. Often, if the rumors about him beating his previous girlfriends are true.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_623df217'>Film: The Illusionist / int_623df217</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_623df217'>Film: The Illusionist / int_623df217</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheIllusionist/int_623df217'>Film: The Illusionist / int_623df217</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_663c2cce' href='http://dbtropes.org/resource/Film/TheIllusionist/int_663c2cce'>Film: The Illusionist / int_663c2cce</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/CaliforniaDoubling'>California Doubling</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_663c2cce'>Film: The Illusionist / int_663c2cce</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>California Doubling: 19th century Vienna was shot in present day Czech Republic.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_663c2cce'>Film: The Illusionist / int_663c2cce</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_663c2cce'>Film: The Illusionist / int_663c2cce</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheIllusionist/int_663c2cce'>Film: The Illusionist / int_663c2cce</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_6795ca9b' href='http://dbtropes.org/resource/Film/TheIllusionist/int_6795ca9b'>Film: The Illusionist / int_6795ca9b</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/FakingTheDead'>Faking the Dead</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_6795ca9b'>Film: The Illusionist / int_6795ca9b</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Faking the Dead, complete with a very convincing temporary Faux Death.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_6795ca9b'>Film: The Illusionist / int_6795ca9b</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_6795ca9b'>Film: The Illusionist / int_6795ca9b</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheIllusionist/int_6795ca9b'>Film: The Illusionist / int_6795ca9b</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_6a19e698' href='http://dbtropes.org/resource/Film/TheIllusionist/int_6a19e698'>Film: The Illusionist / int_6a19e698</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/EstablishingCharacterMoment'>Establishing Character Moment</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_6a19e698'>Film: The Illusionist / int_6a19e698</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Establishing Character Moment: Early in the film Eisenheim runs into a group of street urchins. Instead of simply giving them some money, which he's certainly capable of, he instead gives most of them one coin each with a slight-of-hand trick&mdash;except the last one, who he gives an empty handkerchief... Before raining coins down from his empty hands on the last boy and his fellows. Establishing him as a trickster, but a generous and gentle one.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_6a19e698'>Film: The Illusionist / int_6a19e698</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_6a19e698'>Film: The Illusionist / int_6a19e698</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheIllusionist/int_6a19e698'>Film: The Illusionist / int_6a19e698</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_6e2f63f5' href='http://dbtropes.org/resource/Film/TheIllusionist/int_6e2f63f5'>Film: The Illusionist / int_6e2f63f5</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/ShutUpKiss'>&quot;Shut Up&quot; Kiss</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_6e2f63f5'>Film: The Illusionist / int_6e2f63f5</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>&quot;Shut Up&quot; Kiss: Spectacularly.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_6e2f63f5'>Film: The Illusionist / int_6e2f63f5</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_6e2f63f5'>Film: The Illusionist / int_6e2f63f5</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheIllusionist/int_6e2f63f5'>Film: The Illusionist / int_6e2f63f5</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_6e34d0b2' href='http://dbtropes.org/resource/Film/TheIllusionist/int_6e34d0b2'>Film: The Illusionist / int_6e34d0b2</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/BlackAndGrayMorality'>Black and Gray Morality</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_6e34d0b2'>Film: The Illusionist / int_6e34d0b2</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Black and Grey Morality: The Villain is a murderous asshole planning a coup d'etat, while the hero is somewhat....extreme in the methods that he uses to get what he wants.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_6e34d0b2'>Film: The Illusionist / int_6e34d0b2</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_6e34d0b2'>Film: The Illusionist / int_6e34d0b2</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheIllusionist/int_6e34d0b2'>Film: The Illusionist / int_6e34d0b2</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_8c31ed14' href='http://dbtropes.org/resource/Film/TheIllusionist/int_8c31ed14'>Film: The Illusionist / int_8c31ed14</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/ConspicuousTrenchcoat'>Conspicuous Trenchcoat</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_8c31ed14'>Film: The Illusionist / int_8c31ed14</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Conspicuous Trenchcoat: Sophie is followed everywhere &quot;for her protection.&quot;  Eisenheim uses this to his advantage.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_8c31ed14'>Film: The Illusionist / int_8c31ed14</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_8c31ed14'>Film: The Illusionist / int_8c31ed14</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheIllusionist/int_8c31ed14'>Film: The Illusionist / int_8c31ed14</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_911732c7' href='http://dbtropes.org/resource/Film/TheIllusionist/int_911732c7'>Film: The Illusionist / int_911732c7</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/DrivenToSuicide'>Driven to Suicide</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_911732c7'>Film: The Illusionist / int_911732c7</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Driven to Suicide: The prince.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_911732c7'>Film: The Illusionist / int_911732c7</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_911732c7'>Film: The Illusionist / int_911732c7</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheIllusionist/int_911732c7'>Film: The Illusionist / int_911732c7</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_98ad7d9d' href='http://dbtropes.org/resource/Film/TheIllusionist/int_98ad7d9d'>Film: The Illusionist / int_98ad7d9d</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/OffStageVillainy'>make a to do&nbsp;send a pm&nbsp;add to watchlist&nbsp;drop watch&nbsp;go to watchlist Off Stage Villainy</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_98ad7d9d'>Film: The Illusionist / int_98ad7d9d</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Offstage Villainy: We get told the prince is violent towards women and a cruel manipulator, but never really see it. Although we do see him backhand Sophie once, and be generally unpleasant. And plan a coup d&rsquo;&eacute;tat.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_98ad7d9d'>Film: The Illusionist / int_98ad7d9d</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_98ad7d9d'>Film: The Illusionist / int_98ad7d9d</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheIllusionist/int_98ad7d9d'>Film: The Illusionist / int_98ad7d9d</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_99c40b29' href='http://dbtropes.org/resource/Film/TheIllusionist/int_99c40b29'>Film: The Illusionist / int_99c40b29</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/HappilyEverAfter'>Happily Ever After</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_99c40b29'>Film: The Illusionist / int_99c40b29</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Happily Ever After</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_99c40b29'>Film: The Illusionist / int_99c40b29</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_99c40b29'>Film: The Illusionist / int_99c40b29</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheIllusionist/int_99c40b29'>Film: The Illusionist / int_99c40b29</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_ad1da67f' href='http://dbtropes.org/resource/Film/TheIllusionist/int_ad1da67f'>Film: The Illusionist / int_ad1da67f</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/FakeNationality'>This entry is trivia, which is cool and all, but not a trope. On a work, it goes on the Trivia tab. Fake Nationality</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_ad1da67f'>Film: The Illusionist / int_ad1da67f</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Fake Nationality: Americans Edward Norton, Paul Giamatti and Jessica Biel and British Rufus Sewell are all playing Austrian characters.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_ad1da67f'>Film: The Illusionist / int_ad1da67f</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_ad1da67f'>Film: The Illusionist / int_ad1da67f</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheIllusionist/int_ad1da67f'>Film: The Illusionist / int_ad1da67f</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_ad35acf6' href='http://dbtropes.org/resource/Film/TheIllusionist/int_ad35acf6'>Film: The Illusionist / int_ad35acf6</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/TheReveal'>The Reveal</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_ad35acf6'>Film: The Illusionist / int_ad35acf6</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>The Reveal</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_ad35acf6'>Film: The Illusionist / int_ad35acf6</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_ad35acf6'>Film: The Illusionist / int_ad35acf6</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheIllusionist/int_ad35acf6'>Film: The Illusionist / int_ad35acf6</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_b4915b0a' href='http://dbtropes.org/resource/Film/TheIllusionist/int_b4915b0a'>Film: The Illusionist / int_b4915b0a</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/IdiotBall'>Idiot Ball</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_b4915b0a'>Film: The Illusionist / int_b4915b0a</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Idiot Ball: Eisenheim and Sophie, when preparing to run away, kissing at her carriage, in public, in full view of the people they know are following Sophie.  Until you realize that was part of the plan.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_b4915b0a'>Film: The Illusionist / int_b4915b0a</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_b4915b0a'>Film: The Illusionist / int_b4915b0a</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheIllusionist/int_b4915b0a'>Film: The Illusionist / int_b4915b0a</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_bd806926' href='http://dbtropes.org/resource/Film/TheIllusionist/int_bd806926'>Film: The Illusionist / int_bd806926</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/HowWeGotHere'>How We Got Here</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_bd806926'>Film: The Illusionist / int_bd806926</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>How We Got Here</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_bd806926'>Film: The Illusionist / int_bd806926</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_bd806926'>Film: The Illusionist / int_bd806926</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheIllusionist/int_bd806926'>Film: The Illusionist / int_bd806926</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_c03d1c9' href='http://dbtropes.org/resource/Film/TheIllusionist/int_c03d1c9'>Film: The Illusionist / int_c03d1c9</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/ChekhovsGun'>Chekhov's Gun</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_c03d1c9'>Film: The Illusionist / int_c03d1c9</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Chekhov's Gun: Where to start...</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_c03d1c9'>Film: The Illusionist / int_c03d1c9</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_c03d1c9'>Film: The Illusionist / int_c03d1c9</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheIllusionist/int_c03d1c9'>Film: The Illusionist / int_c03d1c9</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_c3b00141' href='http://dbtropes.org/resource/Film/TheIllusionist/int_c3b00141'>Film: The Illusionist / int_c3b00141</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/ChildhoodMarriagePromise'>Childhood Marriage Promise</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_c3b00141'>Film: The Illusionist / int_c3b00141</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Childhood Marriage Promise: Implied with the locket.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_c3b00141'>Film: The Illusionist / int_c3b00141</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_c3b00141'>Film: The Illusionist / int_c3b00141</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheIllusionist/int_c3b00141'>Film: The Illusionist / int_c3b00141</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_cfede3ec' href='http://dbtropes.org/resource/Film/TheIllusionist/int_cfede3ec'>Film: The Illusionist / int_cfede3ec</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/AlasPoorVillain'>Alas, Poor Villain</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_cfede3ec'>Film: The Illusionist / int_cfede3ec</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Alas, Poor Villain: While the Crown Prince without doubt is a jerkass, the ending lets you wonder whether he really was so evil as he was made out to be, especially because it is revealed that his motive for preparing a coup was not mere selfishness and lust for power, but his sincere belief that his father was unable to lead the Empire into the future. And did he really deserve to be  framed for a murder that not only did he not commit, never even happened in the first place? Although to be accurate, it was established early on that he regularly beat his women, including possibly murdering them.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_cfede3ec'>Film: The Illusionist / int_cfede3ec</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_cfede3ec'>Film: The Illusionist / int_cfede3ec</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheIllusionist/int_cfede3ec'>Film: The Illusionist / int_cfede3ec</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_d27afcc3' href='http://dbtropes.org/resource/Film/TheIllusionist/int_d27afcc3'>Film: The Illusionist / int_d27afcc3</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/VictoriousChildhoodFriend'>VictoriousChildhoodFriend</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_d27afcc3'>Film: The Illusionist / int_d27afcc3</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Victorious Childhood Friend</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_d27afcc3'>Film: The Illusionist / int_d27afcc3</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_d27afcc3'>Film: The Illusionist / int_d27afcc3</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheIllusionist/int_d27afcc3'>Film: The Illusionist / int_d27afcc3</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_d9ca44a1' href='http://dbtropes.org/resource/Film/TheIllusionist/int_d9ca44a1'>Film: The Illusionist / int_d9ca44a1</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/ShadowArchetype'>Shadow Archetype</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_d9ca44a1'>Film: The Illusionist / int_d9ca44a1</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Shadow Archetype: Eisenheim and the prince are this to each other. Both are well-intentioned extremists in love with Sophie who did what they had to do in order to get what they wanted. Eisenheim frames an innocent man for murder, while the prince is a drunk and a wife beater who is planning a coup because he genuinely thinks it's better for the country.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_d9ca44a1'>Film: The Illusionist / int_d9ca44a1</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_d9ca44a1'>Film: The Illusionist / int_d9ca44a1</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheIllusionist/int_d9ca44a1'>Film: The Illusionist / int_d9ca44a1</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_dafa9191' href='http://dbtropes.org/resource/Film/TheIllusionist/int_dafa9191'>Film: The Illusionist / int_dafa9191</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/EvilCanNotComprehendGood'>make a to do&nbsp;send a pm&nbsp;add to watchlist&nbsp;drop watch&nbsp;go to watchlist Evil Can Not Comprehend Good</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_dafa9191'>Film: The Illusionist / int_dafa9191</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Evil Cannot Comprehend Good:  At the end, the crown prince can't bribe the inspector, simply because the inspector doesn't &quot;want&quot; anything the crown prince can offer.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_dafa9191'>Film: The Illusionist / int_dafa9191</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_dafa9191'>Film: The Illusionist / int_dafa9191</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheIllusionist/int_dafa9191'>Film: The Illusionist / int_dafa9191</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_e8d3701c' href='http://dbtropes.org/resource/Film/TheIllusionist/int_e8d3701c'>Film: The Illusionist / int_e8d3701c</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/SurroundedByIdiots'>Surrounded by Idiots</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_e8d3701c'>Film: The Illusionist / int_e8d3701c</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Surrounded by Idiots: The prince certainly thinks so.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_e8d3701c'>Film: The Illusionist / int_e8d3701c</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_e8d3701c'>Film: The Illusionist / int_e8d3701c</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheIllusionist/int_e8d3701c'>Film: The Illusionist / int_e8d3701c</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_f4bce2b' href='http://dbtropes.org/resource/Film/TheIllusionist/int_f4bce2b'>Film: The Illusionist / int_f4bce2b</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/RebelliousPrincess'>Rebellious Princess</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_f4bce2b'>Film: The Illusionist / int_f4bce2b</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Rebellious Princess: Well, duchess, at least; she wants desperately to run away with Edward despite the fact that he's the lowborn son of a cabinetmaker.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_f4bce2b'>Film: The Illusionist / int_f4bce2b</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_f4bce2b'>Film: The Illusionist / int_f4bce2b</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheIllusionist/int_f4bce2b'>Film: The Illusionist / int_f4bce2b</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_f8010371' href='http://dbtropes.org/resource/Film/TheIllusionist/int_f8010371'>Film: The Illusionist / int_f8010371</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/NotWhatItLooksLike'>Not What It Looks Like</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_f8010371'>Film: The Illusionist / int_f8010371</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Not What It Looks Like: Invoked and inverted in-story not by the protagonist, but by the man investigating him, of all things. Who tells the protagonist that he's prepared to investigate &quot;a discreet carriage ride&quot; with the Duchess (and future empress) not as what it looked like (a sexual encounter), &quot;but what it actually is.&quot; (Which is actually a conversation between childhood friends.)</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_f8010371'>Film: The Illusionist / int_f8010371</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_f8010371'>Film: The Illusionist / int_f8010371</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheIllusionist/int_f8010371'>Film: The Illusionist / int_f8010371</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_f97625ff' href='http://dbtropes.org/resource/Film/TheIllusionist/int_f97625ff'>Film: The Illusionist / int_f97625ff</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/PrinceCharmless'>Prince Charmless</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_f97625ff'>Film: The Illusionist / int_f97625ff</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Prince Charmless: Then again...yeah.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_f97625ff'>Film: The Illusionist / int_f97625ff</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_f97625ff'>Film: The Illusionist / int_f97625ff</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheIllusionist/int_f97625ff'>Film: The Illusionist / int_f97625ff</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_name' href='http://dbtropes.org/resource/Film/TheIllusionist/int_name'>Film: The Illusionist / int_name</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://skipforward.net/skipforward/resource/seeder/skipinions/ItemName'>ItemName</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_name'>Film: The Illusionist / int_name</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i></i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_name'>Film: The Illusionist / int_name</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_name'>Film: The Illusionist / int_name</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheIllusionist/int_name'>Film: The Illusionist / int_name</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist/int_name'>Film: The Illusionist / int_name</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/itemName'>itemName</div></td>
+<td><i>Film: The Illusionist</i></td>
+</tr>
+
+
+</table><p><a name="ref_feature_instances">The following is a list of statements referring to the current page from other pages.</a></p><table><tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/AmbiguouslyJewish/int_e54fcf95'>Ambiguously Jewish / int_e54fcf95</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/DoingInTheWizard/int_e54fcf95'>Doing in the Wizard / int_e54fcf95</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/FakingTheDead/int_e54fcf95'>Faking the Dead / int_e54fcf95</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/FandomRivalry/int_e54fcf95'>Fandom Rivalry / int_e54fcf95</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/FauxDeath/int_e54fcf95'>Faux Death / int_e54fcf95</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/GambitRoulette/int_e54fcf95'>Gambit Roulette / int_e54fcf95</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/InspectorJavert/int_e54fcf95'>Inspector Javert / int_e54fcf95</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/MagiciansAreWizards/int_e54fcf95'>Magicians Are Wizards / int_e54fcf95</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Main/MasterOfIllusion'>Master of Illusion</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#seeAlso'>seeAlso</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/MasterOfIllusion/int_e54fcf95'>Master of Illusion / int_e54fcf95</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/MatzoFever/int_e54fcf95'>Matzo Fever / int_e54fcf95</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/PrinceCharmless/int_e54fcf95'>Prince Charmless / int_e54fcf95</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/ShutUpKiss/int_e54fcf95'>&quot;Shut Up&quot; Kiss / int_e54fcf95</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/SimilarlyNamedWorks/int_e54fcf95'>This entry is trivia, which is cool and all, but not a trope. On a work, it goes on the Trivia tab. Similarly Named Works / int_e54fcf95</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/StageMagician/int_e54fcf95'>Stage Magician / int_e54fcf95</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/SympatheticInspectorAntagonist/int_e54fcf95'>Sympathetic Inspector Antagonist / int_e54fcf95</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/TheEvilPrince/int_e54fcf95'>The Evil Prince / int_e54fcf95</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Main/TheIllusionist'>The Illusionist</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#seeAlso'>seeAlso</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/TheLostLenore/int_e54fcf95'>The Lost Lenore / int_e54fcf95</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheIllusionist'>Film: The Illusionist</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/TheReveal/int_e54fcf95'>The Reveal / int_e54fcf95</a></td>
+</tr>
+
+
+</table><hr/><div id="copyright">Copyright of DBTropes.org wrapper 2009-2013 <a href="http://www.dfki.de/km">DFKI Knowledge Management</a>. <a href="http://www.dfki.de/web/forschung/km/legal-info-en">Imprint</a>.<br/>Copyright of data <a href="http://tvtropes.org/">TVTropes.org</a> contributors under <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-Share Alike 3.0 Unported License</a>.</div></div>
+</body>
+</html>

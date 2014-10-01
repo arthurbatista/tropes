@@ -1,0 +1,891 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noindex, nofollow" />
+<!-- Original TVTropes.org is authoritative, let's be nice and not pollute normal HTML search engines. -->
+<link rel="stylesheet" href="/static/main.css" type="text/css" />
+<title>Film: The Deaths of Ian Stone - DBTropes</title>
+</head>
+<body>
+<div id="main">
+<div style="float: right; margin: 0 20px 0 0;"><a href="/info">Search/Recent Changes</a></div>
+<a href="http://dbtropes.org/">
+<img style="border:0px" alt="DBTropes" title="DBTropes" src="/static/logo.png" /></a><br/><i>...it's like <a href="http://tvtropes.org/">TV Tropes</a>, but <a href="http://linkeddata.org/">LINKED DATA</a>!</i>
+<p/>
+
+<h1>Film: The Deaths of Ian Stone</h1>
+
+<ul>
+<li>130 statements</li>
+<li>24 <a href="#feature_instances">feature instances</a></li>
+<li>14 <a href="#ref_feature_instances">referencing feature instances</a></li>
+</ul>
+
+<table><tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone'>Film: The Deaths of Ian Stone</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/ont/TVTItem'>TVTItem</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone'>Film: The Deaths of Ian Stone</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#label'>label</div></td>
+<td><i>Film: The Deaths of Ian Stone</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone'>Film: The Deaths of Ian Stone</a></td>
+<td><div title='http://xmlns.com/foaf/0.1/page'>page</div></td>
+<td><a href='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheDeathsOfIanStone'>TheDeathsOfIanStone</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone'>Film: The Deaths of Ian Stone</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Ian Stone's To Do List: Wake Up. Go To Work. Die Horribly.The Deaths of Ian Stone is a 2007 film released as part of the After Dark Horrorfest of that year. It follows Ian Stone, an American living in England, who dies each day... Let me rephrase that. Ian is killed each day in an ever more gruesome fashion and is reborn into a new life. As time goes on he begins to remember his past lives, but this is usually the prelude to his being killed again. In each life, there are familiar faces, few of them friendly except for two girls who seem to like him and a mysterious stranger who gives him warnings. Each time the clocks stop, the Harvesters come and bring death with them.Stan Winston was a producer and his studio also did design work for the film.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone'>Film: The Deaths of Ian Stone</a></td>
+<td><div title='http://dbtropes.org/ont/fetched'>fetched</div></td>
+<td><i>2014-04-08T14:11:21Z</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone'>Film: The Deaths of Ian Stone</a></td>
+<td><div title='http://dbtropes.org/ont/parsed'>parsed</div></td>
+<td><i>2014-09-23T20:01:57Z</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone'>Film: The Deaths of Ian Stone</a></td>
+<td><div title='http://dbtropes.org/ont/processingCategory1'>processingCategory1</div></td>
+<td><a href='http://dbtropes.org/resource/Main/FilmsOf20052009'>Films of 2005-2009</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone'>Film: The Deaths of Ian Stone</a></td>
+<td><div title='http://dbtropes.org/ont/processingCategory1'>processingCategory1</div></td>
+<td><a href='http://dbtropes.org/resource/Main/HorrorFilms'>Horror Films</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone'>Film: The Deaths of Ian Stone</a></td>
+<td><div title='http://purl.org/dc/terms/isPartOf'>isPartOf</div></td>
+<td><a href='http://dbtropes.org/ont/DBTropes'>DBTropes</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_144a0eda' href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_144a0eda'>Film: The Deaths of Ian Stone / int_144a0eda</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/AscendedDemon'>Ascended Demon</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_144a0eda'>Film: The Deaths of Ian Stone / int_144a0eda</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Ascended Demon: Gray and Ian.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_144a0eda'>Film: The Deaths of Ian Stone / int_144a0eda</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_144a0eda'>Film: The Deaths of Ian Stone / int_144a0eda</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone'>Film: The Deaths of Ian Stone</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_144a0eda'>Film: The Deaths of Ian Stone / int_144a0eda</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_2d865d5d' href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_2d865d5d'>Film: The Deaths of Ian Stone / int_2d865d5d</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/BoyMeetsGhoul'>Boy Meets Ghoul</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_2d865d5d'>Film: The Deaths of Ian Stone / int_2d865d5d</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Boy Meets Ghoul: Ian with Jenny, though instead of her learning to accept him, he learns to become more human.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_2d865d5d'>Film: The Deaths of Ian Stone / int_2d865d5d</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_2d865d5d'>Film: The Deaths of Ian Stone / int_2d865d5d</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone'>Film: The Deaths of Ian Stone</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_2d865d5d'>Film: The Deaths of Ian Stone / int_2d865d5d</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_3e667f52' href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_3e667f52'>Film: The Deaths of Ian Stone / int_3e667f52</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/ShapeShifterWeapon'>make a to do&nbsp;send a pm&nbsp;add to watchlist&nbsp;drop watch&nbsp;go to watchlist Shape Shifter Weapon</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_3e667f52'>Film: The Deaths of Ian Stone / int_3e667f52</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Shapeshifter Weapon: The Harvesters create blades of varying lengths on the ends of their arms. Dual Wielding optional.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_3e667f52'>Film: The Deaths of Ian Stone / int_3e667f52</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_3e667f52'>Film: The Deaths of Ian Stone / int_3e667f52</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone'>Film: The Deaths of Ian Stone</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_3e667f52'>Film: The Deaths of Ian Stone / int_3e667f52</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_43b72cc1' href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_43b72cc1'>Film: The Deaths of Ian Stone / int_43b72cc1</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/IronicNurseryTune'>Ironic Nursery Tune</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_43b72cc1'>Film: The Deaths of Ian Stone / int_43b72cc1</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Ironic Nursery Rhyme: &quot;Cross my heart and hope to die&quot; turns out to be relevant to the plot. Ian did cross Medea's heart. She's making him hope to die. And she later repeats the first line before sticking an actual needle in his eye.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_43b72cc1'>Film: The Deaths of Ian Stone / int_43b72cc1</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_43b72cc1'>Film: The Deaths of Ian Stone / int_43b72cc1</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone'>Film: The Deaths of Ian Stone</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_43b72cc1'>Film: The Deaths of Ian Stone / int_43b72cc1</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_4a5300a5' href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_4a5300a5'>Film: The Deaths of Ian Stone / int_4a5300a5</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/HorrorHunger'>Horror Hunger</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_4a5300a5'>Film: The Deaths of Ian Stone / int_4a5300a5</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Horror Hunger: Harvester's don't have to kill their victims&mdash;Gray gains his nourishment as a Peek-a-Bogeyman. However, the fear of the dying is powerfully addictive.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_4a5300a5'>Film: The Deaths of Ian Stone / int_4a5300a5</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_4a5300a5'>Film: The Deaths of Ian Stone / int_4a5300a5</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone'>Film: The Deaths of Ian Stone</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_4a5300a5'>Film: The Deaths of Ian Stone / int_4a5300a5</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_68ee1629' href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_68ee1629'>Film: The Deaths of Ian Stone / int_68ee1629</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/VoluntaryShapeshifting'>Voluntary Shapeshifting</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_68ee1629'>Film: The Deaths of Ian Stone / int_68ee1629</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Voluntary Shapeshifting: The Harvesters can shift from human to monster or merely transform their body parts (typically for purposes of slicing and dicing.)</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_68ee1629'>Film: The Deaths of Ian Stone / int_68ee1629</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_68ee1629'>Film: The Deaths of Ian Stone / int_68ee1629</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone'>Film: The Deaths of Ian Stone</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_68ee1629'>Film: The Deaths of Ian Stone / int_68ee1629</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_7dbefa40' href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_7dbefa40'>Film: The Deaths of Ian Stone / int_7dbefa40</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/WomanScorned'>Woman Scorned</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_7dbefa40'>Film: The Deaths of Ian Stone / int_7dbefa40</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Woman Scorned: Medea and Ian loved each other once, and the plot of the movie is based in her attempts to snap him out of his newfound love for Jenny, either by killing her, or by making Ian forget her.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_7dbefa40'>Film: The Deaths of Ian Stone / int_7dbefa40</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_7dbefa40'>Film: The Deaths of Ian Stone / int_7dbefa40</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone'>Film: The Deaths of Ian Stone</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_7dbefa40'>Film: The Deaths of Ian Stone / int_7dbefa40</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_846ffd7d' href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_846ffd7d'>Film: The Deaths of Ian Stone / int_846ffd7d</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/ShootTheHostage'>Shoot the Hostage</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_846ffd7d'>Film: The Deaths of Ian Stone / int_846ffd7d</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Shoot the Hostage: How Medea finally dies, and Jenny nearly goes with her.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_846ffd7d'>Film: The Deaths of Ian Stone / int_846ffd7d</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_846ffd7d'>Film: The Deaths of Ian Stone / int_846ffd7d</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone'>Film: The Deaths of Ian Stone</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_846ffd7d'>Film: The Deaths of Ian Stone / int_846ffd7d</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_85557e12' href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_85557e12'>Film: The Deaths of Ian Stone / int_85557e12</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/EmotionEater'>Emotion Eater</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_85557e12'>Film: The Deaths of Ian Stone / int_85557e12</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Emotion Eater: The Harvesters feed on fear and pain. Ian and Gray found something better to feed on. Love. Which led to them leaving the fold.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_85557e12'>Film: The Deaths of Ian Stone / int_85557e12</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_85557e12'>Film: The Deaths of Ian Stone / int_85557e12</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone'>Film: The Deaths of Ian Stone</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_85557e12'>Film: The Deaths of Ian Stone / int_85557e12</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_85d0abec' href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_85d0abec'>Film: The Deaths of Ian Stone / int_85d0abec</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/HumanoidAbomination'>Humanoid Abomination</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_85d0abec'>Film: The Deaths of Ian Stone / int_85d0abec</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Humanoid Abomination: Their nature may be incomprehensible, but the Harvesters look basically human, and to a certain extent they think like humans do.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_85d0abec'>Film: The Deaths of Ian Stone / int_85d0abec</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_85d0abec'>Film: The Deaths of Ian Stone / int_85d0abec</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone'>Film: The Deaths of Ian Stone</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_85d0abec'>Film: The Deaths of Ian Stone / int_85d0abec</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_881de655' href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_881de655'>Film: The Deaths of Ian Stone / int_881de655</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/HeroicSacrifice'>Heroic Sacrifice</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_881de655'>Film: The Deaths of Ian Stone / int_881de655</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Heroic Sacrifice:  Gray uses the last of his power to save Ian.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_881de655'>Film: The Deaths of Ian Stone / int_881de655</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_881de655'>Film: The Deaths of Ian Stone / int_881de655</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone'>Film: The Deaths of Ian Stone</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_881de655'>Film: The Deaths of Ian Stone / int_881de655</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_90510968' href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_90510968'>Film: The Deaths of Ian Stone / int_90510968</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/DreamWithinADream'>Dream Within a Dream</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_90510968'>Film: The Deaths of Ian Stone / int_90510968</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Dream Within a Dream: Every single day.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_90510968'>Film: The Deaths of Ian Stone / int_90510968</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_90510968'>Film: The Deaths of Ian Stone / int_90510968</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone'>Film: The Deaths of Ian Stone</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_90510968'>Film: The Deaths of Ian Stone / int_90510968</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_963a5b67' href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_963a5b67'>Film: The Deaths of Ian Stone / int_963a5b67</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/TortureTechnician'>Torture Technician</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_963a5b67'>Film: The Deaths of Ian Stone / int_963a5b67</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Torture Technician: Medea and her pair of helpers near the end of the film.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_963a5b67'>Film: The Deaths of Ian Stone / int_963a5b67</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_963a5b67'>Film: The Deaths of Ian Stone / int_963a5b67</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone'>Film: The Deaths of Ian Stone</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_963a5b67'>Film: The Deaths of Ian Stone / int_963a5b67</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_97e3e44' href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_97e3e44'>Film: The Deaths of Ian Stone / int_97e3e44</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/BlackSheep'>Black Sheep</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_97e3e44'>Film: The Deaths of Ian Stone / int_97e3e44</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Black Sheep: Gray  and Ian might be more of a case of My Species Doth Protest Too Much. Either way, it was  The Power of Love that caused it.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_97e3e44'>Film: The Deaths of Ian Stone / int_97e3e44</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_97e3e44'>Film: The Deaths of Ian Stone / int_97e3e44</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone'>Film: The Deaths of Ian Stone</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_97e3e44'>Film: The Deaths of Ian Stone / int_97e3e44</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_a44f0fc4' href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_a44f0fc4'>Film: The Deaths of Ian Stone / int_a44f0fc4</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/BlackEyesOfEvil'>Black Eyes of Evil</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_a44f0fc4'>Film: The Deaths of Ian Stone / int_a44f0fc4</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Black Eyes of Evil: The Harvesters.  When Gray uses his powers to help Ian, his eyes glow white.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_a44f0fc4'>Film: The Deaths of Ian Stone / int_a44f0fc4</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_a44f0fc4'>Film: The Deaths of Ian Stone / int_a44f0fc4</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone'>Film: The Deaths of Ian Stone</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_a44f0fc4'>Film: The Deaths of Ian Stone / int_a44f0fc4</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_a9a804fd' href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_a9a804fd'>Film: The Deaths of Ian Stone / int_a9a804fd</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/RealityWarper'>Reality Warper</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_a9a804fd'>Film: The Deaths of Ian Stone / int_a9a804fd</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Reality Warper: The Harvesters possess this power. Some of Gray's lines indicate they created The Multiverse to farm humanity.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_a9a804fd'>Film: The Deaths of Ian Stone / int_a9a804fd</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_a9a804fd'>Film: The Deaths of Ian Stone / int_a9a804fd</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone'>Film: The Deaths of Ian Stone</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_a9a804fd'>Film: The Deaths of Ian Stone / int_a9a804fd</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_be266fc5' href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_be266fc5'>Film: The Deaths of Ian Stone / int_be266fc5</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/ThePowerOfLove'>The Power of Love</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_be266fc5'>Film: The Deaths of Ian Stone / int_be266fc5</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>The Power of Love: It changes the nature of Harvesters, granting them the power to kill their own kind  and create life, which comes in handy at the end.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_be266fc5'>Film: The Deaths of Ian Stone / int_be266fc5</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_be266fc5'>Film: The Deaths of Ian Stone / int_be266fc5</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone'>Film: The Deaths of Ian Stone</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_be266fc5'>Film: The Deaths of Ian Stone / int_be266fc5</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_cc2d7bde' href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_cc2d7bde'>Film: The Deaths of Ian Stone / int_cc2d7bde</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/FromBadToWorse'>From Bad to Worse</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_cc2d7bde'>Film: The Deaths of Ian Stone / int_cc2d7bde</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>From Bad to Worse: Every day Ian descends a little lower in status and lifestyle.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_cc2d7bde'>Film: The Deaths of Ian Stone / int_cc2d7bde</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_cc2d7bde'>Film: The Deaths of Ian Stone / int_cc2d7bde</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone'>Film: The Deaths of Ian Stone</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_cc2d7bde'>Film: The Deaths of Ian Stone / int_cc2d7bde</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_e0eddb8e' href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_e0eddb8e'>Film: The Deaths of Ian Stone / int_e0eddb8e</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/HellBentForLeather'>Hell-Bent for Leather</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_e0eddb8e'>Film: The Deaths of Ian Stone / int_e0eddb8e</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Hell-Bent for Leather: Medea, late in the movie.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_e0eddb8e'>Film: The Deaths of Ian Stone / int_e0eddb8e</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_e0eddb8e'>Film: The Deaths of Ian Stone / int_e0eddb8e</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone'>Film: The Deaths of Ian Stone</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_e0eddb8e'>Film: The Deaths of Ian Stone / int_e0eddb8e</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_ea3422d9' href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_ea3422d9'>Film: The Deaths of Ian Stone / int_ea3422d9</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/TomatoInTheMirror'>Tomato in the Mirror</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_ea3422d9'>Film: The Deaths of Ian Stone / int_ea3422d9</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Tomato in the Mirror: Might not be a shock, but Ian.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_ea3422d9'>Film: The Deaths of Ian Stone / int_ea3422d9</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_ea3422d9'>Film: The Deaths of Ian Stone / int_ea3422d9</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone'>Film: The Deaths of Ian Stone</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_ea3422d9'>Film: The Deaths of Ian Stone / int_ea3422d9</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_ed81bc6e' href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_ed81bc6e'>Film: The Deaths of Ian Stone / int_ed81bc6e</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/BettyAndVeronica'>Betty and Veronica</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_ed81bc6e'>Film: The Deaths of Ian Stone / int_ed81bc6e</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Betty and Veronica: Jenny's the Betty, Medea's the Veronica. From a Harvester perspective, though, Jenny's actually the &quot;unconventional&quot; choice.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_ed81bc6e'>Film: The Deaths of Ian Stone / int_ed81bc6e</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_ed81bc6e'>Film: The Deaths of Ian Stone / int_ed81bc6e</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone'>Film: The Deaths of Ian Stone</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_ed81bc6e'>Film: The Deaths of Ian Stone / int_ed81bc6e</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_eff01791' href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_eff01791'>Film: The Deaths of Ian Stone / int_eff01791</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/YouHaveNoIdeaWhoYoureDealingWith'>You Have No Idea Who You're Dealing With</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_eff01791'>Film: The Deaths of Ian Stone / int_eff01791</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>You Have No Idea Who You're Dealing With: Well, technically, Gray says &quot;what&quot; rather than &quot;who,&quot; but the principle is the same.</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_eff01791'>Film: The Deaths of Ian Stone / int_eff01791</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_eff01791'>Film: The Deaths of Ian Stone / int_eff01791</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone'>Film: The Deaths of Ian Stone</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_eff01791'>Film: The Deaths of Ian Stone / int_eff01791</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a name='int_fd67d6c7' href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_fd67d6c7'>Film: The Deaths of Ian Stone / int_fd67d6c7</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://dbtropes.org/resource/Main/HunterOfHisOwnKind'>Hunter of His Own Kind</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_fd67d6c7'>Film: The Deaths of Ian Stone / int_fd67d6c7</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i>Hunter of His Own Kind:  The Harvesters won't give up trying to kill Ian, but he's prepared to fight back.</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_fd67d6c7'>Film: The Deaths of Ian Stone / int_fd67d6c7</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_fd67d6c7'>Film: The Deaths of Ian Stone / int_fd67d6c7</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone'>Film: The Deaths of Ian Stone</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_fd67d6c7'>Film: The Deaths of Ian Stone / int_fd67d6c7</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a name='int_name' href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_name'>Film: The Deaths of Ian Stone / int_name</a></td>
+<td><div title='http://www.w3.org/1999/02/22-rdf-syntax-ns#type'>type</div></td>
+<td><a href='http://skipforward.net/skipforward/resource/seeder/skipinions/ItemName'>ItemName</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_name'>Film: The Deaths of Ian Stone / int_name</a></td>
+<td><div title='http://www.w3.org/2000/01/rdf-schema#comment'>comment</div></td>
+<td><i></i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_name'>Film: The Deaths of Ian Stone / int_name</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureApplicability'>featureApplicability</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_name'>Film: The Deaths of Ian Stone / int_name</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/featureConfidence'>featureConfidence</div></td>
+<td><i>1.0</i></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone'>Film: The Deaths of Ian Stone</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_name'>Film: The Deaths of Ian Stone / int_name</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone/int_name'>Film: The Deaths of Ian Stone / int_name</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/itemName'>itemName</div></td>
+<td><i>Film: The Deaths of Ian Stone</i></td>
+</tr>
+
+
+</table><p><a name="ref_feature_instances">The following is a list of statements referring to the current page from other pages.</a></p><table><tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone'>Film: The Deaths of Ian Stone</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/AscendedDemon/int_64c82ab9'>Ascended Demon / int_64c82ab9</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone'>Film: The Deaths of Ian Stone</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/DreamWithinADream/int_64c82ab9'>Dream Within a Dream / int_64c82ab9</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone'>Film: The Deaths of Ian Stone</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/HellBentForLeather/int_704e0e6e'>Hell-Bent for Leather / int_704e0e6e</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone'>Film: The Deaths of Ian Stone</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/HorrorHunger/int_704e0e6e'>Horror Hunger / int_704e0e6e</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone'>Film: The Deaths of Ian Stone</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/HumanoidAbomination/int_64c82ab9'>Humanoid Abomination / int_64c82ab9</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone'>Film: The Deaths of Ian Stone</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/IronicNurseryTune/int_64c82ab9'>Ironic Nursery Tune / int_64c82ab9</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone'>Film: The Deaths of Ian Stone</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/LoveRedeems/int_64c82ab9'>Love Redeems / int_64c82ab9</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone'>Film: The Deaths of Ian Stone</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/MySpeciesDothProtestTooMuch/int_64c82ab9'>My Species Doth Protest Too Much / int_64c82ab9</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone'>Film: The Deaths of Ian Stone</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/NonhumanLoverReveal/int_64c82ab9'>Non-human Lover Reveal / int_64c82ab9</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone'>Film: The Deaths of Ian Stone</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/PeekABogeyman/int_704e0e6e'>Peek-a-Bogeyman / int_704e0e6e</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Main/TheDeathsOfIanStone'>TheDeathsOfIanStone</a></td>
+<td><div title='http://www.w3.org/2002/07/owl#sameAs'>sameAs</div></td>
+<td><a href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone'>Film: The Deaths of Ian Stone</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone'>Film: The Deaths of Ian Stone</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/TomatoInTheMirror/int_64c82ab9'>Tomato in the Mirror / int_64c82ab9</a></td>
+</tr>
+
+
+<tr class="bg1"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone'>Film: The Deaths of Ian Stone</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/WomanScorned/int_704e0e6e'>Woman Scorned / int_704e0e6e</a></td>
+</tr>
+
+
+<tr class="bg0"><td>&nbsp;</td><td><a  href='http://dbtropes.org/resource/Film/TheDeathsOfIanStone'>Film: The Deaths of Ian Stone</a></td>
+<td><div title='http://skipforward.net/skipforward/resource/seeder/skipinions/hasFeature'>hasFeature</div></td>
+<td><a href='http://dbtropes.org/resource/Main/YouHaveNoIdeaWhoYoureDealingWith/int_704e0e6e'>You Have No Idea Who You're Dealing With / int_704e0e6e</a></td>
+</tr>
+
+
+</table><hr/><div id="copyright">Copyright of DBTropes.org wrapper 2009-2013 <a href="http://www.dfki.de/km">DFKI Knowledge Management</a>. <a href="http://www.dfki.de/web/forschung/km/legal-info-en">Imprint</a>.<br/>Copyright of data <a href="http://tvtropes.org/">TVTropes.org</a> contributors under <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-Share Alike 3.0 Unported License</a>.</div></div>
+</body>
+</html>
